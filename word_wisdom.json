@@ -1,0 +1,4802 @@
+[
+    {
+        "Date": "1 June",
+        "Grade": "kg , first , second",
+        "Word": "Apple",
+        "WordType": "Noun",
+        "Synonyms": "Fruit",
+        "Antonyms": "N/A",
+        "Example1": "I like to eat an apple.",
+        "Example2": "She packed an apple for lunch."
+    },
+    {
+        "Date": "1 June",
+        "Grade": "third , fourth , fifth",
+        "Word": "Jump",
+        "WordType": "Verb",
+        "Synonyms": "Leap, Hop",
+        "Antonyms": "Fall, Drop",
+        "Example1": "The frog can jump high.",
+        "Example2": "Let's jump together."
+    },
+    {
+        "Date": "1 June",
+        "Grade": "sixth , seventh , eighth , ninth",
+        "Word": "Analyze",
+        "WordType": "Verb",
+        "Synonyms": "Examine, Study",
+        "Antonyms": "Ignore",
+        "Example1": "Scientists analyze data to draw conclusions.",
+        "Example2": "Before writing, authors analyze their ideas."
+    },
+    {
+        "Date": "1 June",
+        "Grade": "tenth , eleventh , twelfth , adult",
+        "Word": "Abhor",
+        "WordType": "Verb",
+        "Synonyms": "Detest, Loathe",
+        "Antonyms": "Adore, Love",
+        "Example1": "She abhors cruelty in any form.",
+        "Example2": "He abhorred the idea of cheating."
+    },
+    {
+        "Date": "2 June",
+        "Grade": "kg , first , second",
+        "Word": "Ant",
+        "WordType": "Noun",
+        "Synonyms": "Insect",
+        "Antonyms": "N/A",
+        "Example1": "Look at the tiny ant.",
+        "Example2": "The ant crawled on the ground."
+    },
+    {
+        "Date": "2 June",
+        "Grade": "third , fourth , fifth",
+        "Word": "Friend",
+        "WordType": "Noun",
+        "Synonyms": "Pal, Buddy",
+        "Antonyms": "Enemy",
+        "Example1": "She's my best friend.",
+        "Example2": "Make a new friend."
+    },
+    {
+        "Date": "2 June",
+        "Grade": "sixth , seventh , eighth , ninth",
+        "Word": "Astonish",
+        "WordType": "Verb",
+        "Synonyms": "Amaze, Surprise",
+        "Antonyms": "Expect",
+        "Example1": "The magician's tricks never fail to astonish.",
+        "Example2": "I was astonished by the news of her success."
+    },
+    {
+        "Date": "2 June",
+        "Grade": "tenth , eleventh , twelfth , adult",
+        "Word": "Acumen",
+        "WordType": "Noun",
+        "Synonyms": "Insight, Sharpness",
+        "Antonyms": "Ignorance, Dullness",
+        "Example1": "His business acumen made him a successful entrepreneur.",
+        "Example2": "Her acumen in solving puzzles impressed everyone."
+    },
+    {
+        "Date": "3 June",
+        "Grade": "kg , first , second",
+        "Word": "Arrow",
+        "WordType": "Noun",
+        "Synonyms": "Dart",
+        "Antonyms": "N/A",
+        "Example1": "The arrow flew through the air.",
+        "Example2": "He shot the arrow at the target."
+    },
+    {
+        "Date": "3 June",
+        "Grade": "third , fourth , fifth",
+        "Word": "Bright",
+        "WordType": "Adjective",
+        "Synonyms": "Shiny, Clear",
+        "Antonyms": "Dark, Dull",
+        "Example1": "The sun is bright.",
+        "Example2": "She has bright ideas."
+    },
+    {
+        "Date": "3 June",
+        "Grade": "sixth , seventh , eighth , ninth",
+        "Word": "Blunder",
+        "WordType": "Noun/Verb",
+        "Synonyms": "Mistake, Error",
+        "Antonyms": "Accuracy",
+        "Example1": "His blunder cost the team the championship.",
+        "Example2": "She blundered by forgetting her homework."
+    },
+    {
+        "Date": "3 June",
+        "Grade": "tenth , eleventh , twelfth , adult",
+        "Word": "Adept",
+        "WordType": "Adjective",
+        "Synonyms": "Skilled, Proficient",
+        "Antonyms": "Inept, Clumsy",
+        "Example1": "He's adept at playing the guitar.",
+        "Example2": "She's adept in handling difficult situations."
+    },
+    {
+        "Date": "4 June",
+        "Grade": "kg , first , second",
+        "Word": "Angry",
+        "WordType": "Adjective",
+        "Synonyms": "Mad",
+        "Antonyms": "Happy",
+        "Example1": "The cat looks angry.",
+        "Example2": "She felt angry when she lost."
+    },
+    {
+        "Date": "4 June",
+        "Grade": "third , fourth , fifth",
+        "Word": "Grow",
+        "WordType": "Verb",
+        "Synonyms": "Develop, Thrive",
+        "Antonyms": "Shrink, Wither",
+        "Example1": "Plants need water to grow.",
+        "Example2": "I want to grow tall."
+    },
+    {
+        "Date": "4 June",
+        "Grade": "sixth , seventh , eighth , ninth",
+        "Word": "Collaborate",
+        "WordType": "Verb",
+        "Synonyms": "Cooperate, Work",
+        "Antonyms": "Compete",
+        "Example1": "Students collaborate on group projects.",
+        "Example2": "The scientists collaborated on research."
+    },
+    {
+        "Date": "4 June",
+        "Grade": "tenth , eleventh , twelfth , adult",
+        "Word": "Adroit",
+        "WordType": "Adjective",
+        "Synonyms": "Dexterous, Skillful",
+        "Antonyms": "Clumsy, Inept",
+        "Example1": "The adroit chef can prepare any dish effortlessly.",
+        "Example2": "She's adroit at multitasking."
+    },
+    {
+        "Date": "5 June",
+        "Grade": "kg , first , second",
+        "Word": "Above",
+        "WordType": "Preposition",
+        "Synonyms": "Over",
+        "Antonyms": "Below",
+        "Example1": "The picture is above the desk.",
+        "Example2": "The sun is above the clouds."
+    },
+    {
+        "Date": "5 June",
+        "Grade": "third , fourth , fifth",
+        "Word": "Brave",
+        "WordType": "Adjective",
+        "Synonyms": "Courageous, Fearless",
+        "Antonyms": "Cowardly",
+        "Example1": "The knight is brave.",
+        "Example2": "Be brave and face it."
+    },
+    {
+        "Date": "5 June",
+        "Grade": "sixth , seventh , eighth , ninth",
+        "Word": "Conclude",
+        "WordType": "Verb",
+        "Synonyms": "Determine, End",
+        "Antonyms": "Begin",
+        "Example1": "We can conclude that the experiment worked.",
+        "Example2": "After studying the clues, I conclude that..."
+    },
+    {
+        "Date": "5 June",
+        "Grade": "tenth , eleventh , twelfth , adult",
+        "Word": "Alleviate",
+        "WordType": "Verb",
+        "Synonyms": "Relieve, Ease",
+        "Antonyms": "Aggravate, Worsen",
+        "Example1": "Taking painkillers can alleviate your headache.",
+        "Example2": "Donating to charity can alleviate poverty."
+    },
+    {
+        "Date": "6 June",
+        "Grade": "kg , first , second",
+        "Word": "Animal",
+        "WordType": "Noun",
+        "Synonyms": "Creature",
+        "Antonyms": "N/A",
+        "Example1": "The zoo has many animals.",
+        "Example2": "I like to learn about animals."
+    },
+    {
+        "Date": "6 June",
+        "Grade": "third , fourth , fifth",
+        "Word": "Run",
+        "WordType": "Verb",
+        "Synonyms": "Sprint, Jog",
+        "Antonyms": "Walk",
+        "Example1": "She can run very fast.",
+        "Example2": "Let's run a race."
+    },
+    {
+        "Date": "6 June",
+        "Grade": "sixth , seventh , eighth , ninth",
+        "Word": "Deduce",
+        "WordType": "Verb",
+        "Synonyms": "Infer, Conclude",
+        "Antonyms": "Guess",
+        "Example1": "From the evidence, we can deduce the answer.",
+        "Example2": "Sherlock Holmes deduced the culprit."
+    },
+    {
+        "Date": "6 June",
+        "Grade": "tenth , eleventh , twelfth , adult",
+        "Word": "Ambivalent",
+        "WordType": "Adjective",
+        "Synonyms": "Uncertain, Indecisive",
+        "Antonyms": "Decisive, Certain",
+        "Example1": "She felt ambivalent about the job offer.",
+        "Example2": "His ambivalent attitude often leads to confusion."
+    },
+    {
+        "Date": "7 June",
+        "Grade": "kg , first , second",
+        "Word": "Always",
+        "WordType": "Adverb",
+        "Synonyms": "Forever",
+        "Antonyms": "Never",
+        "Example1": "I will always love you.",
+        "Example2": "She always wakes up early."
+    },
+    {
+        "Date": "7 June",
+        "Grade": "third , fourth , fifth",
+        "Word": "Laugh",
+        "WordType": "Verb",
+        "Synonyms": "Giggle, Chuckle",
+        "Antonyms": "Cry",
+        "Example1": "They laugh at the joke.",
+        "Example2": "Laughing is contagious."
+    },
+    {
+        "Date": "7 June",
+        "Grade": "sixth , seventh , eighth , ninth",
+        "Word": "Dilemma",
+        "WordType": "Noun",
+        "Synonyms": "Predicament, Problem",
+        "Antonyms": "Solution",
+        "Example1": "I'm in a dilemma about which job to choose.",
+        "Example2": "Our team faces a dilemma regarding funding."
+    },
+    {
+        "Date": "7 June",
+        "Grade": "tenth , eleventh , twelfth , adult",
+        "Word": "Ameliorate",
+        "WordType": "Verb",
+        "Synonyms": "Improve, Better",
+        "Antonyms": "Worsen, Deteriorate",
+        "Example1": "A nutritious diet can ameliorate your health.",
+        "Example2": "Training programs aim to ameliorate performance."
+    },
+    {
+        "Date": "8 June",
+        "Grade": "kg , first , second",
+        "Word": "Alone",
+        "WordType": "Adjective",
+        "Synonyms": "Lonely",
+        "Antonyms": "Together",
+        "Example1": "He felt alone in the dark.",
+        "Example2": "She sat alone on the bench."
+    },
+    {
+        "Date": "8 June",
+        "Grade": "third , fourth , fifth",
+        "Word": "Color",
+        "WordType": "Noun",
+        "Synonyms": "Hue, Shade",
+        "Antonyms": "Monochrome",
+        "Example1": "What's your favorite color?",
+        "Example2": "Color the picture."
+    },
+    {
+        "Date": "8 June",
+        "Grade": "sixth , seventh , eighth , ninth",
+        "Word": "Efficient",
+        "WordType": "Adjective",
+        "Synonyms": "Effective, Productive",
+        "Antonyms": "Inefficient",
+        "Example1": "The new machine is more efficient.",
+        "Example2": "She's an efficient manager of her time."
+    },
+    {
+        "Date": "8 June",
+        "Grade": "tenth , eleventh , twelfth , adult",
+        "Word": "Apathetic",
+        "WordType": "Adjective",
+        "Synonyms": "Indifferent, Uninterested",
+        "Antonyms": "Interested, Enthusiastic",
+        "Example1": "His apathetic response disappointed everyone.",
+        "Example2": "She remained apathetic to the whole situation."
+    },
+    {
+        "Date": "9 June",
+        "Grade": "kg , first , second",
+        "Word": "Arm",
+        "WordType": "Noun",
+        "Synonyms": "Limb",
+        "Antonyms": "N/A",
+        "Example1": "He raised his arm in the air.",
+        "Example2": "The monkey has long arms."
+    },
+    {
+        "Date": "9 June",
+        "Grade": "third , fourth , fifth",
+        "Word": "Strong",
+        "WordType": "Adjective",
+        "Synonyms": "Tough, Mighty",
+        "Antonyms": "Weak",
+        "Example1": "He's very strong.",
+        "Example2": "Be strong and lift."
+    },
+    {
+        "Date": "9 June",
+        "Grade": "sixth , seventh , eighth , ninth",
+        "Word": "Embark",
+        "WordType": "Verb",
+        "Synonyms": "Begin, Start",
+        "Antonyms": "Abandon",
+        "Example1": "We will embark on a journey of discovery.",
+        "Example2": "The explorers embarked on a voyage."
+    },
+    {
+        "Date": "9 June",
+        "Grade": "tenth , eleventh , twelfth , adult",
+        "Word": "Arcane",
+        "WordType": "Adjective",
+        "Synonyms": "Mysterious, Obscure",
+        "Antonyms": "Clear, Obvious",
+        "Example1": "The symbols on the ancient artifact were arcane.",
+        "Example2": "The methods used by the artist were arcane."
+    },
+    {
+        "Date": "10 June",
+        "Grade": "kg , first , second",
+        "Word": "Acorn",
+        "WordType": "Noun",
+        "Synonyms": "Seed",
+        "Antonyms": "N/A",
+        "Example1": "The squirrel found an acorn.",
+        "Example2": "Acorns fall from oak trees."
+    },
+    {
+        "Date": "10 June",
+        "Grade": "third , fourth , fifth",
+        "Word": "Read",
+        "WordType": "Verb",
+        "Synonyms": "Study, Scan",
+        "Antonyms": "Ignore",
+        "Example1": "She loves to read books.",
+        "Example2": "Can you read this?"
+    },
+    {
+        "Date": "10 June",
+        "Grade": "sixth , seventh , eighth , ninth",
+        "Word": "Enhance",
+        "WordType": "Verb",
+        "Synonyms": "Improve, Upgrade",
+        "Antonyms": "Degrade",
+        "Example1": "Studying regularly will enhance your grades.",
+        "Example2": "Exercise can enhance your physical health."
+    },
+    {
+        "Date": "10 June",
+        "Grade": "tenth , eleventh , twelfth , adult",
+        "Word": "Astute",
+        "WordType": "Adjective",
+        "Synonyms": "Shrewd, Clever",
+        "Antonyms": "Naive, Foolish",
+        "Example1": "The astute businessman always made profitable deals.",
+        "Example2": "Her astute observation skills impressed her peers."
+    },
+    {
+        "Date": "11 June",
+        "Grade": "kg , first , second",
+        "Word": "Ball",
+        "WordType": "Noun",
+        "Synonyms": "Sphere, Orb",
+        "Antonyms": "Flat, Square",
+        "Example1": "I threw the ball.",
+        "Example2": "The ball is round."
+    },
+    {
+        "Date": "11 June",
+        "Grade": "third , fourth , fifth",
+        "Word": "Quiet",
+        "WordType": "Adjective",
+        "Synonyms": "Silent, Hushed",
+        "Antonyms": "Noisy",
+        "Example1": "Please be quiet.",
+        "Example2": "The library is quiet."
+    },
+    {
+        "Date": "11 June",
+        "Grade": "sixth , seventh , eighth , ninth",
+        "Word": "Evaluate",
+        "WordType": "Verb",
+        "Synonyms": "Assess, Judge",
+        "Antonyms": "Ignore",
+        "Example1": "Teachers evaluate students' performance.",
+        "Example2": "We must evaluate the impact of our actions."
+    },
+    {
+        "Date": "11 June",
+        "Grade": "tenth , eleventh , twelfth , adult",
+        "Word": "Benevolent",
+        "WordType": "Adjective",
+        "Synonyms": "Kind, Generous",
+        "Antonyms": "Malevolent, Malign",
+        "Example1": "The benevolent billionaire donated to many charities.",
+        "Example2": "His benevolent actions helped many people."
+    },
+    {
+        "Date": "12 June",
+        "Grade": "kg , first , second",
+        "Word": "Big",
+        "WordType": "Adjective",
+        "Synonyms": "Large, Huge",
+        "Antonyms": "Small, Tiny",
+        "Example1": "The elephant is big.",
+        "Example2": "The house is big."
+    },
+    {
+        "Date": "12 June",
+        "Grade": "third , fourth , fifth",
+        "Word": "Build",
+        "WordType": "Verb",
+        "Synonyms": "Construct, Create",
+        "Antonyms": "Destroy",
+        "Example1": "Let's build a sandcastle.",
+        "Example2": "Builders build houses."
+    },
+    {
+        "Date": "12 June",
+        "Grade": "sixth , seventh , eighth , ninth",
+        "Word": "Exemplify",
+        "WordType": "Verb",
+        "Synonyms": "Demonstrate, Illustrate",
+        "Antonyms": "Conceal",
+        "Example1": "His actions exemplify bravery.",
+        "Example2": "The painting exemplifies the artist's skill."
+    },
+    {
+        "Date": "12 June",
+        "Grade": "tenth , eleventh , twelfth , adult",
+        "Word": "Capitulate",
+        "WordType": "Verb",
+        "Synonyms": "Surrender, Yield",
+        "Antonyms": "Resist, Fight",
+        "Example1": "The army had to capitulate to the enemy's demands.",
+        "Example2": "After a long negotiation, they decided to capitulate."
+    },
+    {
+        "Date": "13 June",
+        "Grade": "kg , first , second",
+        "Word": "Book",
+        "WordType": "Noun",
+        "Synonyms": "Volume, Tome",
+        "Antonyms": "None",
+        "Example1": "I read a book.",
+        "Example2": "This is my book."
+    },
+    {
+        "Date": "13 June",
+        "Grade": "third , fourth , fifth",
+        "Word": "Smart",
+        "WordType": "Adjective",
+        "Synonyms": "Intelligent, Clever",
+        "Antonyms": "Dumb",
+        "Example1": "He's very smart.",
+        "Example2": "Smart thinking!"
+    },
+    {
+        "Date": "13 June",
+        "Grade": "sixth , seventh , eighth , ninth",
+        "Word": "Exploit",
+        "WordType": "Verb",
+        "Synonyms": "Utilize, Benefit",
+        "Antonyms": "Neglect",
+        "Example1": "He tried to exploit my weakness.",
+        "Example2": "The company exploits natural resources."
+    },
+    {
+        "Date": "13 June",
+        "Grade": "tenth , eleventh , twelfth , adult",
+        "Word": "Cogent",
+        "WordType": "Adjective",
+        "Synonyms": "Convincing, Persuasive",
+        "Antonyms": "Weak, Ineffective",
+        "Example1": "His cogent argument swayed the jury's opinion.",
+        "Example2": "The professor presented a cogent case for his theory."
+    },
+    {
+        "Date": "14 June",
+        "Grade": "kg , first , second",
+        "Word": "Bear",
+        "WordType": "Noun",
+        "Synonyms": "Teddy, Cub",
+        "Antonyms": "None",
+        "Example1": "The bear is brown.",
+        "Example2": "The bear is sleeping."
+    },
+    {
+        "Date": "14 June",
+        "Grade": "third , fourth , fifth",
+        "Word": "Dance",
+        "WordType": "Verb",
+        "Synonyms": "Boogie, Waltz",
+        "Antonyms": "Still",
+        "Example1": "They dance together.",
+        "Example2": "Let's dance tonight."
+    },
+    {
+        "Date": "14 June",
+        "Grade": "sixth , seventh , eighth , ninth",
+        "Word": "Formulate",
+        "WordType": "Verb",
+        "Synonyms": "Develop, Create",
+        "Antonyms": "Destroy",
+        "Example1": "Scientists formulate hypotheses.",
+        "Example2": "Writers formulate their ideas into stories."
+    },
+    {
+        "Date": "14 June",
+        "Grade": "tenth , eleventh , twelfth , adult",
+        "Word": "Complacent",
+        "WordType": "Adjective",
+        "Synonyms": "Self-satisfied, Smug",
+        "Antonyms": "Ambitious, Driven",
+        "Example1": "Their complacent attitude led to their downfall.",
+        "Example2": "She was complacent with her mediocre performance."
+    },
+    {
+        "Date": "15 June",
+        "Grade": "kg , first , second",
+        "Word": "Box",
+        "WordType": "Noun",
+        "Synonyms": "Container, Case",
+        "Antonyms": "None",
+        "Example1": "Put it in the box.",
+        "Example2": "The box is heavy."
+    },
+    {
+        "Date": "15 June",
+        "Grade": "third , fourth , fifth",
+        "Word": "Chair",
+        "WordType": "Noun",
+        "Synonyms": "Seat, Stool",
+        "Antonyms": "Stand",
+        "Example1": "Sit on the chair.",
+        "Example2": "The chair is sturdy."
+    },
+    {
+        "Date": "15 June",
+        "Grade": "sixth , seventh , eighth , ninth",
+        "Word": "Generate",
+        "WordType": "Verb",
+        "Synonyms": "Create, Produce",
+        "Antonyms": "Eliminate",
+        "Example1": "The wind turbines generate electricity.",
+        "Example2": "Ideas can generate excitement."
+    },
+    {
+        "Date": "15 June",
+        "Grade": "tenth , eleventh , twelfth , adult",
+        "Word": "Conundrum",
+        "WordType": "Noun",
+        "Synonyms": "Puzzle, Riddle",
+        "Antonyms": "Solution, Clarity",
+        "Example1": "Solving the conundrum of climate change is crucial.",
+        "Example2": "The detective faced a conundrum in the murder case."
+    },
+    {
+        "Date": "16 June",
+        "Grade": "kg , first , second",
+        "Word": "Blue",
+        "WordType": "Adjective",
+        "Synonyms": "Azure, Cobalt",
+        "Antonyms": "Red, Yellow",
+        "Example1": "The sky is blue.",
+        "Example2": "The car is blue."
+    },
+    {
+        "Date": "16 June",
+        "Grade": "third , fourth , fifth",
+        "Word": "Sing",
+        "WordType": "Verb",
+        "Synonyms": "Croon, Chant",
+        "Antonyms": "Mute",
+        "Example1": "She can sing beautifully.",
+        "Example2": "Let's sing a song."
+    },
+    {
+        "Date": "16 June",
+        "Grade": "sixth , seventh , eighth , ninth",
+        "Word": "Gracious",
+        "WordType": "Adjective",
+        "Synonyms": "Courteous, Polite",
+        "Antonyms": "Rude",
+        "Example1": "She thanked him with a gracious smile.",
+        "Example2": "Despite his success, he remained gracious."
+    },
+    {
+        "Date": "16 June",
+        "Grade": "tenth , eleventh , twelfth , adult",
+        "Word": "Copious",
+        "WordType": "Adjective",
+        "Synonyms": "Abundant, Plentiful",
+        "Antonyms": "Scarce, Limited",
+        "Example1": "The writer had copious notes for her novel.",
+        "Example2": "The garden was filled with copious flowers."
+    },
+    {
+        "Date": "17 June",
+        "Grade": "kg , first , second",
+        "Word": "Bed",
+        "WordType": "Noun",
+        "Synonyms": "Cot, Mattress",
+        "Antonyms": "None",
+        "Example1": "Go to bed.",
+        "Example2": "The bed is soft."
+    },
+    {
+        "Date": "17 June",
+        "Grade": "third , fourth , fifth",
+        "Word": "Learn",
+        "WordType": "Verb",
+        "Synonyms": "Study, Absorb",
+        "Antonyms": "Forget",
+        "Example1": "We learn new things.",
+        "Example2": "Learning is fun."
+    },
+    {
+        "Date": "17 June",
+        "Grade": "sixth , seventh , eighth , ninth",
+        "Word": "Harmony",
+        "WordType": "Noun",
+        "Synonyms": "Agreement, Peace",
+        "Antonyms": "Conflict",
+        "Example1": "The choir sang in perfect harmony.",
+        "Example2": "We strive for harmony in our relationships."
+    },
+    {
+        "Date": "17 June",
+        "Grade": "tenth , eleventh , twelfth , adult",
+        "Word": "Credulous",
+        "WordType": "Adjective",
+        "Synonyms": "Gullible, Trusting",
+        "Antonyms": "Skeptical, Suspicious",
+        "Example1": "He was so credulous that he believed everything he heard.",
+        "Example2": "Her credulous nature often led her into trouble."
+    },
+    {
+        "Date": "18 June",
+        "Grade": "kg , first , second",
+        "Word": "Bat",
+        "WordType": "Noun",
+        "Synonyms": "Club, Stick",
+        "Antonyms": "None",
+        "Example1": "The bat flies.",
+        "Example2": "The bat is black."
+    },
+    {
+        "Date": "18 June",
+        "Grade": "third , fourth , fifth",
+        "Word": "Sleep",
+        "WordType": "Verb",
+        "Synonyms": "Snooze, Rest",
+        "Antonyms": "Awake",
+        "Example1": "It's time to sleep.",
+        "Example2": "She's sleeping now."
+    },
+    {
+        "Date": "18 June",
+        "Grade": "sixth , seventh , eighth , ninth",
+        "Word": "Illuminate",
+        "WordType": "Verb",
+        "Synonyms": "Enlighten, Clarify",
+        "Antonyms": "Confuse",
+        "Example1": "The sun will illuminate the room.",
+        "Example2": "His explanation illuminated the problem."
+    },
+    {
+        "Date": "18 June",
+        "Grade": "tenth , eleventh , twelfth , adult",
+        "Word": "Cryptic",
+        "WordType": "Adjective",
+        "Synonyms": "Enigmatic, Mysterious",
+        "Antonyms": "Clear, Obvious",
+        "Example1": "The message was cryptic and hard to decipher.",
+        "Example2": "His cryptic smile made her uneasy."
+    },
+    {
+        "Date": "19 June",
+        "Grade": "kg , first , second",
+        "Word": "Baby",
+        "WordType": "Noun",
+        "Synonyms": "Infant, Toddler",
+        "Antonyms": "Adult",
+        "Example1": "The baby is crying.",
+        "Example2": "The baby is sleeping."
+    },
+    {
+        "Date": "19 June",
+        "Grade": "third , fourth , fifth",
+        "Word": "Swim",
+        "WordType": "Verb",
+        "Synonyms": "Dive, Float",
+        "Antonyms": "Sink",
+        "Example1": "He can swim well.",
+        "Example2": "Let's swim in the pool."
+    },
+    {
+        "Date": "19 June",
+        "Grade": "sixth , seventh , eighth , ninth",
+        "Word": "Ingenious",
+        "WordType": "Adjective",
+        "Synonyms": "Clever, Creative",
+        "Antonyms": "Ordinary",
+        "Example1": "The inventor had an ingenious idea.",
+        "Example2": "Her solution was both simple and ingenious."
+    },
+    {
+        "Date": "19 June",
+        "Grade": "tenth , eleventh , twelfth , adult",
+        "Word": "Deleterious",
+        "WordType": "Adjective",
+        "Synonyms": "Harmful, Damaging",
+        "Antonyms": "Beneficial, Helpful",
+        "Example1": "Smoking has deleterious effects on health.",
+        "Example2": "The chemicals had a deleterious impact on the environment."
+    },
+    {
+        "Date": "20 June",
+        "Grade": "kg , first , second",
+        "Word": "Bird",
+        "WordType": "Noun",
+        "Synonyms": "Avian, Fowl",
+        "Antonyms": "None",
+        "Example1": "The bird sings.",
+        "Example2": "The bird flies."
+    },
+    {
+        "Date": "20 June",
+        "Grade": "third , fourth , fifth",
+        "Word": "Play",
+        "WordType": "Verb",
+        "Synonyms": "Frolic, Gamble",
+        "Antonyms": "Work",
+        "Example1": "Kids love to play.",
+        "Example2": "Playtime is important."
+    },
+    {
+        "Date": "20 June",
+        "Grade": "sixth , seventh , eighth , ninth",
+        "Word": "Instigate",
+        "WordType": "Verb",
+        "Synonyms": "Incite, Provoke",
+        "Antonyms": "Prevent",
+        "Example1": "He instigated the argument by insulting her.",
+        "Example2": "The speech instigated a revolution."
+    },
+    {
+        "Date": "20 June",
+        "Grade": "tenth , eleventh , twelfth , adult",
+        "Word": "Denounce",
+        "WordType": "Verb",
+        "Synonyms": "Condemn, Censure",
+        "Antonyms": "Praise, Endorse",
+        "Example1": "The government denounced the terrorist activities.",
+        "Example2": "She denounced his unethical behavior publicly."
+    },
+    {
+        "Date": "21 June",
+        "Grade": "kg , first , second",
+        "Word": "Cat",
+        "WordType": "Noun",
+        "Synonyms": "Kitty",
+        "Antonyms": "Dog",
+        "Example1": "The cat chased the mouse.",
+        "Example2": "My cat likes to sleep in the sun."
+    },
+    {
+        "Date": "21 June",
+        "Grade": "third , fourth , fifth",
+        "Word": "Smile",
+        "WordType": "Verb",
+        "Synonyms": "Grin, Beam",
+        "Antonyms": "Frown",
+        "Example1": "She smiled at me.",
+        "Example2": "Smiling is contagious."
+    },
+    {
+        "Date": "21 June",
+        "Grade": "sixth , seventh , eighth , ninth",
+        "Word": "Intrigue",
+        "WordType": "Verb/Noun",
+        "Synonyms": "Fascinate, Puzzle",
+        "Antonyms": "Bore",
+        "Example1": "The mystery novel intrigued me.",
+        "Example2": "His plan had an air of intrigue."
+    },
+    {
+        "Date": "21 June",
+        "Grade": "tenth , eleventh , twelfth , adult",
+        "Word": "Diligent",
+        "WordType": "Adjective",
+        "Synonyms": "Hardworking, Industrious",
+        "Antonyms": "Lazy, Slothful",
+        "Example1": "His diligent study habits paid off in the exams.",
+        "Example2": "She was diligent in completing her tasks on time."
+    },
+    {
+        "Date": "22 June",
+        "Grade": "kg , first , second",
+        "Word": "Colour",
+        "WordType": "Noun",
+        "Synonyms": "Shade, Hue",
+        "Antonyms": "Monochrome",
+        "Example1": "What color is the sky?",
+        "Example2": "I like to color with crayons."
+    },
+    {
+        "Date": "22 June",
+        "Grade": "third , fourth , fifth",
+        "Word": "Cat",
+        "WordType": "Noun",
+        "Synonyms": "Feline, Kitty",
+        "Antonyms": "Dog",
+        "Example1": "I have a pet cat.",
+        "Example2": "The cat purrs softly."
+    },
+    {
+        "Date": "22 June",
+        "Grade": "sixth , seventh , eighth , ninth",
+        "Word": "Isolate",
+        "WordType": "Verb",
+        "Synonyms": "Separate, Segregate",
+        "Antonyms": "Unite",
+        "Example1": "The scientist isolated the bacteria.",
+        "Example2": "She felt isolated from her friends."
+    },
+    {
+        "Date": "22 June",
+        "Grade": "tenth , eleventh , twelfth , adult",
+        "Word": "Disparage",
+        "WordType": "Verb",
+        "Synonyms": "Belittle, Criticize",
+        "Antonyms": "Praise, Admire",
+        "Example1": "He often disparaged his colleague's work.",
+        "Example2": "She felt disparaged by his hurtful comments."
+    },
+    {
+        "Date": "23 June",
+        "Grade": "kg , first , second",
+        "Word": "Circle",
+        "WordType": "Noun",
+        "Synonyms": "Round",
+        "Antonyms": "Square",
+        "Example1": "Draw a circle on the paper.",
+        "Example2": "The moon looks like a circle in the sky."
+    },
+    {
+        "Date": "23 June",
+        "Grade": "third , fourth , fifth",
+        "Word": "Dog",
+        "WordType": "Noun",
+        "Synonyms": "Canine, Pooch",
+        "Antonyms": "Cat",
+        "Example1": "He loves his dog.",
+        "Example2": "The dog barks loudly."
+    },
+    {
+        "Date": "23 June",
+        "Grade": "sixth , seventh , eighth , ninth",
+        "Word": "Lavish",
+        "WordType": "Adjective/Verb",
+        "Synonyms": "Luxurious, Generous",
+        "Antonyms": "Frugal",
+        "Example1": "The party had a lavish buffet.",
+        "Example2": "She lavished attention on her pet."
+    },
+    {
+        "Date": "23 June",
+        "Grade": "tenth , eleventh , twelfth , adult",
+        "Word": "Disparate",
+        "WordType": "Adjective",
+        "Synonyms": "Different, Diverse",
+        "Antonyms": "Similar, Alike",
+        "Example1": "Their disparate opinions made consensus difficult.",
+        "Example2": "The two cultures had disparate customs."
+    },
+    {
+        "Date": "24 June",
+        "Grade": "kg , first , second",
+        "Word": "Cake",
+        "WordType": "Noun",
+        "Synonyms": "Dessert",
+        "Antonyms": "Vegetable",
+        "Example1": "I want to eat a piece of cake.",
+        "Example2": "Mom baked a delicious cake for my birthday."
+    },
+    {
+        "Date": "24 June",
+        "Grade": "third , fourth , fifth",
+        "Word": "Book",
+        "WordType": "Noun",
+        "Synonyms": "Novel, Volume",
+        "Antonyms": "Screen",
+        "Example1": "Read a book before bed.",
+        "Example2": "The book is interesting."
+    },
+    {
+        "Date": "24 June",
+        "Grade": "sixth , seventh , eighth , ninth",
+        "Word": "Meander",
+        "WordType": "Verb",
+        "Synonyms": "Wander, Ramble",
+        "Antonyms": "Direct",
+        "Example1": "The river meanders through the valley.",
+        "Example2": "We spent the afternoon meandering in town."
+    },
+    {
+        "Date": "24 June",
+        "Grade": "tenth , eleventh , twelfth , adult",
+        "Word": "Eclectic",
+        "WordType": "Adjective",
+        "Synonyms": "Diverse, Varied",
+        "Antonyms": "Homogeneous, Uniform",
+        "Example1": "Her taste in music is eclectic, ranging from jazz to rock.",
+        "Example2": "He had an eclectic collection of vintage items."
+    },
+    {
+        "Date": "25 June",
+        "Grade": "kg , first , second",
+        "Word": "Clock",
+        "WordType": "Noun",
+        "Synonyms": "Watch",
+        "Antonyms": "Sun",
+        "Example1": "Look at the clock to see the time.",
+        "Example2": "My alarm clock wakes me up in the morning."
+    },
+    {
+        "Date": "25 June",
+        "Grade": "third , fourth , fifth",
+        "Word": "School",
+        "WordType": "Noun",
+        "Synonyms": "Academy, Class",
+        "Antonyms": "Vacation",
+        "Example1": "We go to school daily.",
+        "Example2": "School starts at 8 AM."
+    },
+    {
+        "Date": "25 June",
+        "Grade": "sixth , seventh , eighth , ninth",
+        "Word": "Mishap",
+        "WordType": "Noun",
+        "Synonyms": "Accident, Misfortune",
+        "Antonyms": "Success",
+        "Example1": "A mishap caused delays in the project.",
+        "Example2": "Despite the mishap, the event was a success."
+    },
+    {
+        "Date": "25 June",
+        "Grade": "tenth , eleventh , twelfth , adult",
+        "Word": "Egregious",
+        "WordType": "Adjective",
+        "Synonyms": "Flagrant, Outrageous",
+        "Antonyms": "Minor, Insignificant",
+        "Example1": "His egregious errors cost the company millions.",
+        "Example2": "The movie's acting was so egregious, it was comical."
+    },
+    {
+        "Date": "26 June",
+        "Grade": "kg , first , second",
+        "Word": "Cow",
+        "WordType": "Noun",
+        "Synonyms": "Bovine",
+        "Antonyms": "Lion",
+        "Example1": "The cow gives us milk.",
+        "Example2": "I saw a cow grazing in the field."
+    },
+    {
+        "Date": "26 June",
+        "Grade": "third , fourth , fifth",
+        "Word": "Tree",
+        "WordType": "Noun",
+        "Synonyms": "Plant, Timber",
+        "Antonyms": "Desert",
+        "Example1": "Climb the tree carefully.",
+        "Example2": "Trees provide shade."
+    },
+    {
+        "Date": "26 June",
+        "Grade": "sixth , seventh , eighth , ninth",
+        "Word": "Nurture",
+        "WordType": "Verb",
+        "Synonyms": "Foster, Support",
+        "Antonyms": "Neglect",
+        "Example1": "Parents nurture their children with love.",
+        "Example2": "Teachers nurture students' talents."
+    },
+    {
+        "Date": "26 June",
+        "Grade": "tenth , eleventh , twelfth , adult",
+        "Word": "Eloquent",
+        "WordType": "Adjective",
+        "Synonyms": "Fluent, Expressive",
+        "Antonyms": "Inarticulate, Tongue-tied",
+        "Example1": "His eloquent speech moved the audience to tears.",
+        "Example2": "She was an eloquent writer, captivating her readers."
+    },
+    {
+        "Date": "27 June",
+        "Grade": "kg , first , second",
+        "Word": "Car",
+        "WordType": "Noun",
+        "Synonyms": "Automobile",
+        "Antonyms": "Bicycle",
+        "Example1": "Let's go for a ride in the car.",
+        "Example2": "Our car is blue and shiny."
+    },
+    {
+        "Date": "27 June",
+        "Grade": "third , fourth , fifth",
+        "Word": "Bird",
+        "WordType": "Noun",
+        "Synonyms": "Avian, Fowl",
+        "Antonyms": "Ground",
+        "Example1": "The bird sings sweetly.",
+        "Example2": "Birds fly in the sky."
+    },
+    {
+        "Date": "27 June",
+        "Grade": "sixth , seventh , eighth , ninth",
+        "Word": "Obsolete",
+        "WordType": "Adjective",
+        "Synonyms": "Outdated, Antiquated",
+        "Antonyms": "Modern",
+        "Example1": "The technology became obsolete quickly.",
+        "Example2": "Printed encyclopedias are now obsolete."
+    },
+    {
+        "Date": "27 June",
+        "Grade": "tenth , eleventh , twelfth , adult",
+        "Word": "Empathy",
+        "WordType": "Noun",
+        "Synonyms": "Compassion, Understanding",
+        "Antonyms": "Apathy, Indifference",
+        "Example1": "He showed empathy towards the homeless.",
+        "Example2": "She lacked empathy for her friend's struggles."
+    },
+    {
+        "Date": "28 June",
+        "Grade": "kg , first , second",
+        "Word": "Chair",
+        "WordType": "Noun",
+        "Synonyms": "Seat",
+        "Antonyms": "Floor",
+        "Example1": "Sit on the chair, please.",
+        "Example2": "I like to read books while sitting on a chair."
+    },
+    {
+        "Date": "28 June",
+        "Grade": "third , fourth , fifth",
+        "Word": "Cake",
+        "WordType": "Noun",
+        "Synonyms": "Dessert, Pastry",
+        "Antonyms": "Healthy",
+        "Example1": "She baked a delicious cake.",
+        "Example2": "I love birthday cakes."
+    },
+    {
+        "Date": "28 June",
+        "Grade": "sixth , seventh , eighth , ninth",
+        "Word": "Persevere",
+        "WordType": "Verb",
+        "Synonyms": "Persist, Endure",
+        "Antonyms": "Quit",
+        "Example1": "She persevered despite the challenges.",
+        "Example2": "Perseverance is key to achieving success."
+    },
+    {
+        "Date": "28 June",
+        "Grade": "tenth , eleventh , twelfth , adult",
+        "Word": "Ephemeral",
+        "WordType": "Adjective",
+        "Synonyms": "Transient, Short-lived",
+        "Antonyms": "Permanent, Eternal",
+        "Example1": "Youth is ephemeral; enjoy it while it lasts.",
+        "Example2": "The beauty of the sunset was ephemeral."
+    },
+    {
+        "Date": "29 June",
+        "Grade": "kg , first , second",
+        "Word": "Candy",
+        "WordType": "Noun",
+        "Synonyms": "Sweets",
+        "Antonyms": "Vegetables",
+        "Example1": "I got a piece of candy from the store.",
+        "Example2": "Can I have some candy after dinner?"
+    },
+    {
+        "Date": "29 June",
+        "Grade": "third , fourth , fifth",
+        "Word": "Toy",
+        "WordType": "Noun",
+        "Synonyms": "Plaything, Game",
+        "Antonyms": "Adult",
+        "Example1": "Kids love playing with toys.",
+        "Example2": "The toy is broken."
+    },
+    {
+        "Date": "29 June",
+        "Grade": "sixth , seventh , eighth , ninth",
+        "Word": "Ponder",
+        "WordType": "Verb",
+        "Synonyms": "Contemplate, Consider",
+        "Antonyms": "Disregard",
+        "Example1": "I need some time to ponder my decision.",
+        "Example2": "He pondered the meaning of life."
+    },
+    {
+        "Date": "29 June",
+        "Grade": "tenth , eleventh , twelfth , adult",
+        "Word": "Erudite",
+        "WordType": "Adjective",
+        "Synonyms": "Learned, Scholarly",
+        "Antonyms": "Ignorant, Uneducated",
+        "Example1": "The professor was erudite in various fields.",
+        "Example2": "She displayed her erudite knowledge in the debate."
+    },
+    {
+        "Date": "30 June",
+        "Grade": "kg , first , second",
+        "Word": "Cloud",
+        "WordType": "Noun",
+        "Synonyms": "Fog",
+        "Antonyms": "Clear sky",
+        "Example1": "Look at the fluffy white cloud.",
+        "Example2": "The sky is full of clouds today."
+    },
+    {
+        "Date": "30 June",
+        "Grade": "third , fourth , fifth",
+        "Word": "Ball",
+        "WordType": "Noun",
+        "Synonyms": "Sphere, Orb",
+        "Antonyms": "Flat",
+        "Example1": "Kick the ball hard.",
+        "Example2": "The ball bounced high."
+    },
+    {
+        "Date": "30 June",
+        "Grade": "sixth , seventh , eighth , ninth",
+        "Word": "Predicament",
+        "WordType": "Noun",
+        "Synonyms": "Dilemma, Problem",
+        "Antonyms": "Solution",
+        "Example1": "They found themselves in a predicament.",
+        "Example2": "How will she get out of this predicament?"
+    },
+    {
+        "Date": "30 June",
+        "Grade": "tenth , eleventh , twelfth , adult",
+        "Word": "Esoteric",
+        "WordType": "Adjective",
+        "Synonyms": "Obscure, Arcane",
+        "Antonyms": "Common, Accessible",
+        "Example1": "The topic was esoteric and difficult to understand.",
+        "Example2": "She had an esoteric taste in literature."
+    },
+    {
+        "Date": "1 July",
+        "Grade": "kg , first , second",
+        "Word": "Dog",
+        "WordType": "Noun",
+        "Synonyms": "Canine",
+        "Antonyms": "Cat",
+        "Example1": "The dog barks.",
+        "Example2": "I have a pet dog."
+    },
+    {
+        "Date": "1 July",
+        "Grade": "third , fourth , fifth",
+        "Word": "Sun",
+        "WordType": "Noun",
+        "Synonyms": "Star, Sol",
+        "Antonyms": "Moon",
+        "Example1": "The sun shines brightly.",
+        "Example2": "Enjoy the warm sun."
+    },
+    {
+        "Date": "1 July",
+        "Grade": "sixth , seventh , eighth , ninth",
+        "Word": "Proficient",
+        "WordType": "Adjective",
+        "Synonyms": "Skilled, Competent",
+        "Antonyms": "Inept",
+        "Example1": "She's proficient in several languages.",
+        "Example2": "He became proficient in playing the piano."
+    },
+    {
+        "Date": "1 July",
+        "Grade": "tenth , eleventh , twelfth , adult",
+        "Word": "Euphemism",
+        "WordType": "Noun",
+        "Synonyms": "Substitution, Mild term",
+        "Antonyms": "Bluntness, Directness",
+        "Example1": "Pass away is a euphemism for \"die.",
+        "Example2": "Saying \"let go\" is a euphemism for \"fired."
+    },
+    {
+        "Date": "2 July",
+        "Grade": "kg , first , second",
+        "Word": "Dance",
+        "WordType": "Verb",
+        "Synonyms": "Move, Groove",
+        "Antonyms": "Still",
+        "Example1": "Let's dance!",
+        "Example2": "She loves to dance."
+    },
+    {
+        "Date": "2 July",
+        "Grade": "third , fourth , fifth",
+        "Word": "Moon",
+        "WordType": "Noun",
+        "Synonyms": "Luna, Satellite",
+        "Antonyms": "Sun",
+        "Example1": "The moon glows at night.",
+        "Example2": "The moon is full."
+    },
+    {
+        "Date": "2 July",
+        "Grade": "sixth , seventh , eighth , ninth",
+        "Word": "Propel",
+        "WordType": "Verb",
+        "Synonyms": "Drive, Push",
+        "Antonyms": "Halt",
+        "Example1": "The engine propels the boat forward.",
+        "Example2": "Passion propels us towards our goals."
+    },
+    {
+        "Date": "2 July",
+        "Grade": "tenth , eleventh , twelfth , adult",
+        "Word": "Exacerbate",
+        "WordType": "Verb",
+        "Synonyms": "Aggravate, Worsen",
+        "Antonyms": "Alleviate, Improve",
+        "Example1": "His comments only served to exacerbate the situation.",
+        "Example2": "The drought exacerbated the already dire situation."
+    },
+    {
+        "Date": "3 July",
+        "Grade": "kg , first , second",
+        "Word": "Door",
+        "WordType": "Noun",
+        "Synonyms": "Entrance",
+        "Antonyms": "Wall",
+        "Example1": "Close the door.",
+        "Example2": "The door is open."
+    },
+    {
+        "Date": "3 July",
+        "Grade": "third , fourth , fifth",
+        "Word": "Fish",
+        "WordType": "Noun",
+        "Synonyms": "Aquatic, Marine",
+        "Antonyms": "Land",
+        "Example1": "He caught a big fish.",
+        "Example2": "Fish swim in water."
+    },
+    {
+        "Date": "3 July",
+        "Grade": "sixth , seventh , eighth , ninth",
+        "Word": "Quench",
+        "WordType": "Verb",
+        "Synonyms": "Satisfy, Extinguish",
+        "Antonyms": "Ignite",
+        "Example1": "Drinking water quenches your thirst.",
+        "Example2": "The rain helped to quench the fire."
+    },
+    {
+        "Date": "3 July",
+        "Grade": "tenth , eleventh , twelfth , adult",
+        "Word": "Exemplary",
+        "WordType": "Adjective",
+        "Synonyms": "Model, Outstanding",
+        "Antonyms": "Inferior, Mediocre",
+        "Example1": "Her exemplary leadership inspired the team.",
+        "Example2": "He set an exemplary standard for others to follow."
+    },
+    {
+        "Date": "4 July",
+        "Grade": "kg , first , second",
+        "Word": "Duck",
+        "WordType": "Noun",
+        "Synonyms": "Bird",
+        "Antonyms": "Eagle",
+        "Example1": "The duck swims.",
+        "Example2": "Look at that duck."
+    },
+    {
+        "Date": "4 July",
+        "Grade": "third , fourth , fifth",
+        "Word": "Car",
+        "WordType": "Noun",
+        "Synonyms": "Automobile, Vehicle",
+        "Antonyms": "Foot",
+        "Example1": "They drove a red car.",
+        "Example2": "Cars need fuel."
+    },
+    {
+        "Date": "4 July",
+        "Grade": "sixth , seventh , eighth , ninth",
+        "Word": "Rendezvous",
+        "WordType": "Noun/Verb",
+        "Synonyms": "Meeting, Appointment",
+        "Antonyms": "Departure",
+        "Example1": "They arranged a rendezvous at the café.",
+        "Example2": "The spies had a secret rendezvous."
+    },
+    {
+        "Date": "4 July",
+        "Grade": "tenth , eleventh , twelfth , adult",
+        "Word": "Exonerate",
+        "WordType": "Verb",
+        "Synonyms": "Acquit, Absolve",
+        "Antonyms": "Convict, Blame",
+        "Example1": "DNA evidence helped exonerate the wrongly accused.",
+        "Example2": "The investigation exonerated him of all charges."
+    },
+    {
+        "Date": "5 July",
+        "Grade": "kg , first , second",
+        "Word": "Drum",
+        "WordType": "Noun",
+        "Synonyms": "Percussion",
+        "Antonyms": "Silence",
+        "Example1": "Play the drum.",
+        "Example2": "He beats the drum."
+    },
+    {
+        "Date": "5 July",
+        "Grade": "third , fourth , fifth",
+        "Word": "House",
+        "WordType": "Noun",
+        "Synonyms": "Home, Dwelling",
+        "Antonyms": "Homeless",
+        "Example1": "Our house is cozy.",
+        "Example2": "The house is for sale."
+    },
+    {
+        "Date": "5 July",
+        "Grade": "sixth , seventh , eighth , ninth",
+        "Word": "Resilient",
+        "WordType": "Adjective",
+        "Synonyms": "Tough, Flexible",
+        "Antonyms": "Fragile",
+        "Example1": "Bamboo is resilient to harsh conditions.",
+        "Example2": "She showed a resilient spirit after defeat."
+    },
+    {
+        "Date": "5 July",
+        "Grade": "tenth , eleventh , twelfth , adult",
+        "Word": "Facetious",
+        "WordType": "Adjective",
+        "Synonyms": "Flippant, Jocular",
+        "Antonyms": "Serious, Sincere",
+        "Example1": "His facetious remarks lightened the mood.",
+        "Example2": "She couldn't tell if he was being facetious or serious."
+    },
+    {
+        "Date": "6 July",
+        "Grade": "kg , first , second",
+        "Word": "Day",
+        "WordType": "Noun",
+        "Synonyms": "Sunlight",
+        "Antonyms": "Night",
+        "Example1": "It's a new day.",
+        "Example2": "We have day and night."
+    },
+    {
+        "Date": "6 July",
+        "Grade": "third , fourth , fifth",
+        "Word": "Rain",
+        "WordType": "Noun",
+        "Synonyms": "Precipitation, Shower",
+        "Antonyms": "Drought",
+        "Example1": "The rain is falling heavily.",
+        "Example2": "I love the smell of rain."
+    },
+    {
+        "Date": "6 July",
+        "Grade": "sixth , seventh , eighth , ninth",
+        "Word": "Salvage",
+        "WordType": "Verb",
+        "Synonyms": "Rescue, Recover",
+        "Antonyms": "Abandon",
+        "Example1": "We managed to salvage some of the wreckage.",
+        "Example2": "He tried to salvage the situation."
+    },
+    {
+        "Date": "6 July",
+        "Grade": "tenth , eleventh , twelfth , adult",
+        "Word": "Fastidious",
+        "WordType": "Adjective",
+        "Synonyms": "Meticulous, Fussy",
+        "Antonyms": "Careless, Sloppy",
+        "Example1": "She was fastidious about cleanliness in her home.",
+        "Example2": "His fastidious nature made him a perfectionist."
+    },
+    {
+        "Date": "7 July",
+        "Grade": "kg , first , second",
+        "Word": "Doll",
+        "WordType": "Noun",
+        "Synonyms": "Toy",
+        "Antonyms": "Human",
+        "Example1": "She plays with her doll.",
+        "Example2": "The doll is pretty."
+    },
+    {
+        "Date": "7 July",
+        "Grade": "third , fourth , fifth",
+        "Word": "Snow",
+        "WordType": "Noun",
+        "Synonyms": "Frost, Flurry",
+        "Antonyms": "Melt",
+        "Example1": "The snow is white.",
+        "Example2": "Snowflakes are unique."
+    },
+    {
+        "Date": "7 July",
+        "Grade": "sixth , seventh , eighth , ninth",
+        "Word": "Scrutinize",
+        "WordType": "Verb",
+        "Synonyms": "Examine, Inspect",
+        "Antonyms": "Ignore",
+        "Example1": "Lawyers scrutinized the contract details.",
+        "Example2": "Scientists scrutinized the data for errors."
+    },
+    {
+        "Date": "7 July",
+        "Grade": "tenth , eleventh , twelfth , adult",
+        "Word": "Furtive",
+        "WordType": "Adjective",
+        "Synonyms": "Secretive, Sneaky",
+        "Antonyms": "Open, Transparent",
+        "Example1": "He cast a furtive glance at the closed door.",
+        "Example2": "She made a furtive attempt to hide the evidence."
+    },
+    {
+        "Date": "8 July",
+        "Grade": "kg , first , second",
+        "Word": "Draw",
+        "WordType": "Verb",
+        "Synonyms": "Sketch",
+        "Antonyms": "Erase",
+        "Example1": "Let's draw a picture.",
+        "Example2": "He draws well."
+    },
+    {
+        "Date": "8 July",
+        "Grade": "third , fourth , fifth",
+        "Word": "Wind",
+        "WordType": "Noun",
+        "Synonyms": "Breeze, Gust",
+        "Antonyms": "Calm",
+        "Example1": "Feel the wind blowing.",
+        "Example2": "The wind is strong."
+    },
+    {
+        "Date": "8 July",
+        "Grade": "sixth , seventh , eighth , ninth",
+        "Word": "Serene",
+        "WordType": "Adjective",
+        "Synonyms": "Calm, Peaceful",
+        "Antonyms": "Turbulent",
+        "Example1": "The lake looked serene in the moonlight.",
+        "Example2": "Her voice had a serene quality to it."
+    },
+    {
+        "Date": "8 July",
+        "Grade": "tenth , eleventh , twelfth , adult",
+        "Word": "Gregarious",
+        "WordType": "Adjective",
+        "Synonyms": "Sociable, Outgoing",
+        "Antonyms": "Introverted, Shy",
+        "Example1": "He's known for his gregarious personality at parties.",
+        "Example2": "Despite being gregarious, she valued her alone time."
+    },
+    {
+        "Date": "9 July",
+        "Grade": "kg , first , second",
+        "Word": "Dinosaur",
+        "WordType": "Noun",
+        "Synonyms": "Prehistoric",
+        "Antonyms": "Modern",
+        "Example1": "The dinosaur roars.",
+        "Example2": "Look at that dinosaur skeleton."
+    },
+    {
+        "Date": "9 July",
+        "Grade": "third , fourth , fifth",
+        "Word": "Ice",
+        "WordType": "Noun",
+        "Synonyms": "Frost, Glacier",
+        "Antonyms": "Melt",
+        "Example1": "The ice is cold.",
+        "Example2": "Skate on the ice."
+    },
+    {
+        "Date": "9 July",
+        "Grade": "sixth , seventh , eighth , ninth",
+        "Word": "Simulate",
+        "WordType": "Verb",
+        "Synonyms": "Imitate, Mimic",
+        "Antonyms": "Real",
+        "Example1": "Pilots simulate emergency situations.",
+        "Example2": "The virtual reality game simulates flying."
+    },
+    {
+        "Date": "9 July",
+        "Grade": "tenth , eleventh , twelfth , adult",
+        "Word": "Haughty",
+        "WordType": "Adjective",
+        "Synonyms": "Arrogant, Snobbish",
+        "Antonyms": "Humble, Modest",
+        "Example1": "His haughty demeanor offended many people.",
+        "Example2": "She couldn't stand his haughty attitude."
+    },
+    {
+        "Date": "10 July",
+        "Grade": "kg , first , second",
+        "Word": "Dream",
+        "WordType": "Noun/Verb",
+        "Synonyms": "Wish, Imagine",
+        "Antonyms": "Reality",
+        "Example1": "I had a dream.",
+        "Example2": "Dream big."
+    },
+    {
+        "Date": "10 July",
+        "Grade": "third , fourth , fifth",
+        "Word": "Fire",
+        "WordType": "Noun",
+        "Synonyms": "Flame, Inferno",
+        "Antonyms": "Water",
+        "Example1": "Keep away from the fire.",
+        "Example2": "Fire is dangerous."
+    },
+    {
+        "Date": "10 July",
+        "Grade": "sixth , seventh , eighth , ninth",
+        "Word": "Solitude",
+        "WordType": "Noun",
+        "Synonyms": "Isolation, Seclusion",
+        "Antonyms": "Company",
+        "Example1": "She sought solitude in the mountains.",
+        "Example2": "Writers often work in solitude."
+    },
+    {
+        "Date": "10 July",
+        "Grade": "tenth , eleventh , twelfth , adult",
+        "Word": "Hubris",
+        "WordType": "Noun",
+        "Synonyms": "Arrogance, Pride",
+        "Antonyms": "Humility, Modesty",
+        "Example1": "His hubris led to his downfall.",
+        "Example2": "She warned him that his hubris would be his undoing."
+    },
+    {
+        "Date": "11 July",
+        "Grade": "kg , first , second",
+        "Word": "Elephant",
+        "WordType": "Noun",
+        "Synonyms": "Pachyderm",
+        "Antonyms": "None",
+        "Example1": "The elephant has a long trunk.",
+        "Example2": "An elephant is a big animal."
+    },
+    {
+        "Date": "11 July",
+        "Grade": "third , fourth , fifth",
+        "Word": "Mouse",
+        "WordType": "Noun",
+        "Synonyms": "Rodent, Mice",
+        "Antonyms": "Cat",
+        "Example1": "The mouse scurried away.",
+        "Example2": "The mouse is small."
+    },
+    {
+        "Date": "11 July",
+        "Grade": "sixth , seventh , eighth , ninth",
+        "Word": "Spontaneous",
+        "WordType": "Adjective",
+        "Synonyms": "Impulsive, Unplanned",
+        "Antonyms": "Planned",
+        "Example1": "Their trip was a spontaneous adventure.",
+        "Example2": "She made a spontaneous decision to travel."
+    },
+    {
+        "Date": "11 July",
+        "Grade": "tenth , eleventh , twelfth , adult",
+        "Word": "Idiosyncrasy",
+        "WordType": "Noun",
+        "Synonyms": "Peculiarity, Quirk",
+        "Antonyms": "Norm, Commonality",
+        "Example1": "His idiosyncrasy of always wearing mismatched socks amused everyone.",
+        "Example2": "She found his idiosyncrasy endearing."
+    },
+    {
+        "Date": "12 July",
+        "Grade": "kg , first , second",
+        "Word": "Egg",
+        "WordType": "Noun",
+        "Synonyms": "None",
+        "Antonyms": "None",
+        "Example1": "She ate a boiled egg for breakfast.",
+        "Example2": "The bird laid an egg in the nest."
+    },
+    {
+        "Date": "12 July",
+        "Grade": "third , fourth , fifth",
+        "Word": "Keyboard",
+        "WordType": "Noun",
+        "Synonyms": "Keypad, Typewriter",
+        "Antonyms": "Mouse",
+        "Example1": "Type on the keyboard.",
+        "Example2": "The keyboard is wireless."
+    },
+    {
+        "Date": "12 July",
+        "Grade": "sixth , seventh , eighth , ninth",
+        "Word": "Stimulate",
+        "WordType": "Verb",
+        "Synonyms": "Excite, Encourage",
+        "Antonyms": "Dull",
+        "Example1": "Music can stimulate creativity.",
+        "Example2": "His speech stimulated a lively discussion."
+    },
+    {
+        "Date": "12 July",
+        "Grade": "tenth , eleventh , twelfth , adult",
+        "Word": "Indolent",
+        "WordType": "Adjective",
+        "Synonyms": "Lazy, Slothful",
+        "Antonyms": "Industrious, Hardworking",
+        "Example1": "His indolent attitude towards work annoyed his colleagues.",
+        "Example2": "She was criticized for her indolent approach."
+    },
+    {
+        "Date": "13 July",
+        "Grade": "kg , first , second",
+        "Word": "Easy",
+        "WordType": "Adjective",
+        "Synonyms": "Simple, Effortless",
+        "Antonyms": "Difficult, Hard",
+        "Example1": "The puzzle is easy to solve.",
+        "Example2": "Learning to read is easy."
+    },
+    {
+        "Date": "13 July",
+        "Grade": "third , fourth , fifth",
+        "Word": "Phone",
+        "WordType": "Noun",
+        "Synonyms": "Telephone, Mobile",
+        "Antonyms": "Offline",
+        "Example1": "Call me on the phone.",
+        "Example2": "The phone is ringing."
+    },
+    {
+        "Date": "13 July",
+        "Grade": "sixth , seventh , eighth , ninth",
+        "Word": "Subtle",
+        "WordType": "Adjective",
+        "Synonyms": "Slight, Faint",
+        "Antonyms": "Obvious",
+        "Example1": "There was a subtle change in her attitude.",
+        "Example2": "She used subtle hints to convey her message."
+    },
+    {
+        "Date": "13 July",
+        "Grade": "tenth , eleventh , twelfth , adult",
+        "Word": "Ineffable",
+        "WordType": "Adjective",
+        "Synonyms": "Indescribable, Unspeakable",
+        "Antonyms": "Expressible, Describable",
+        "Example1": "The beauty of the scenery was ineffable.",
+        "Example2": "His joy upon winning the championship was ineffable."
+    },
+    {
+        "Date": "14 July",
+        "Grade": "kg , first , second",
+        "Word": "Eat",
+        "WordType": "Verb",
+        "Synonyms": "Consume",
+        "Antonyms": "None",
+        "Example1": "I like to eat apples.",
+        "Example2": "Dogs eat bones."
+    },
+    {
+        "Date": "14 July",
+        "Grade": "third , fourth , fifth",
+        "Word": "Star",
+        "WordType": "Noun",
+        "Synonyms": "Celebrity, Luminary",
+        "Antonyms": "Ordinary",
+        "Example1": "He's a movie star.",
+        "Example2": "Stars twinkle at night."
+    },
+    {
+        "Date": "14 July",
+        "Grade": "sixth , seventh , eighth , ninth",
+        "Word": "Synchronize",
+        "WordType": "Verb",
+        "Synonyms": "Coordinate, Align",
+        "Antonyms": "Conflict",
+        "Example1": "The dancers synchronized their movements.",
+        "Example2": "Let's synchronize our schedules."
+    },
+    {
+        "Date": "14 July",
+        "Grade": "tenth , eleventh , twelfth , adult",
+        "Word": "Insidious",
+        "WordType": "Adjective",
+        "Synonyms": "Cunning, Stealthy",
+        "Antonyms": "Open, Obvious",
+        "Example1": "The insidious disease crept into his body unnoticed.",
+        "Example2": "The cult leader had an insidious influence on his followers."
+    },
+    {
+        "Date": "15 July",
+        "Grade": "kg , first , second",
+        "Word": "Eyes",
+        "WordType": "Noun",
+        "Synonyms": "Vision",
+        "Antonyms": "Blind",
+        "Example1": "She has blue eyes.",
+        "Example2": "Owls have big eyes."
+    },
+    {
+        "Date": "15 July",
+        "Grade": "third , fourth , fifth",
+        "Word": "Train",
+        "WordType": "Noun",
+        "Synonyms": "Locomotive, Railway",
+        "Antonyms": "Walk",
+        "Example1": "Take the train to the city.",
+        "Example2": "The train chugs along."
+    },
+    {
+        "Date": "15 July",
+        "Grade": "sixth , seventh , eighth , ninth",
+        "Word": "Tranquil",
+        "WordType": "Adjective",
+        "Synonyms": "Peaceful, Calm",
+        "Antonyms": "Chaotic",
+        "Example1": "The garden was a tranquil retreat.",
+        "Example2": "His voice had a tranquil effect on her."
+    },
+    {
+        "Date": "15 July",
+        "Grade": "tenth , eleventh , twelfth , adult",
+        "Word": "Intrepid",
+        "WordType": "Adjective",
+        "Synonyms": "Fearless, Brave",
+        "Antonyms": "Timid, Cowardly",
+        "Example1": "The intrepid explorer ventured into the unknown.",
+        "Example2": "She showed intrepid courage in the face of danger."
+    },
+    {
+        "Date": "16 July",
+        "Grade": "kg , first , second",
+        "Word": "Eight",
+        "WordType": "Numeral",
+        "Synonyms": "Eighteen, Eighty",
+        "Antonyms": "None",
+        "Example1": "I have eight crayons.",
+        "Example2": "There are eight flowers in the garden."
+    },
+    {
+        "Date": "16 July",
+        "Grade": "third , fourth , fifth",
+        "Word": "Ship",
+        "WordType": "Noun",
+        "Synonyms": "Vessel, Boat",
+        "Antonyms": "Plane",
+        "Example1": "The ship sails the ocean.",
+        "Example2": "Ships have anchors."
+    },
+    {
+        "Date": "16 July",
+        "Grade": "sixth , seventh , eighth , ninth",
+        "Word": "Ultimate",
+        "WordType": "Adjective",
+        "Synonyms": "Final, Supreme",
+        "Antonyms": "Initial",
+        "Example1": "Winning the championship was the ultimate goal.",
+        "Example2": "The ultimate decision lies with the judge."
+    },
+    {
+        "Date": "16 July",
+        "Grade": "tenth , eleventh , twelfth , adult",
+        "Word": "Juxtapose",
+        "WordType": "Verb",
+        "Synonyms": "Compare, Contrast",
+        "Antonyms": "Separate, Disconnect",
+        "Example1": "The artist juxtaposed light and dark in her painting.",
+        "Example2": "The author juxtaposed two conflicting ideologies."
+    },
+    {
+        "Date": "17 July",
+        "Grade": "kg , first , second",
+        "Word": "Elbow",
+        "WordType": "Noun",
+        "Synonyms": "Joint",
+        "Antonyms": "None",
+        "Example1": "He bumped his elbow on the table.",
+        "Example2": "She used her elbow to push the door."
+    },
+    {
+        "Date": "17 July",
+        "Grade": "third , fourth , fifth",
+        "Word": "Pencil",
+        "WordType": "Noun",
+        "Synonyms": "Writing tool, Lead",
+        "Antonyms": "Eraser",
+        "Example1": "Write with a pencil.",
+        "Example2": "The pencil is sharp."
+    },
+    {
+        "Date": "17 July",
+        "Grade": "sixth , seventh , eighth , ninth",
+        "Word": "Validate",
+        "WordType": "Verb",
+        "Synonyms": "Confirm, Verify",
+        "Antonyms": "Invalidate",
+        "Example1": "The experiment results validated the theory.",
+        "Example2": "They had to validate their tickets."
+    },
+    {
+        "Date": "17 July",
+        "Grade": "tenth , eleventh , twelfth , adult",
+        "Word": "Languid",
+        "WordType": "Adjective",
+        "Synonyms": "Lethargic, Sluggish",
+        "Antonyms": "Energetic, Vigorous",
+        "Example1": "The hot weather made her feel languid and lazy.",
+        "Example2": "His languid movements indicated his exhaustion."
+    },
+    {
+        "Date": "18 July",
+        "Grade": "kg , first , second",
+        "Word": "Excited",
+        "WordType": "Adjective",
+        "Synonyms": "Eager, Enthusiastic",
+        "Antonyms": "Bored, Uninterested",
+        "Example1": "The children were excited for the field trip.",
+        "Example2": "I'm excited to open my presents."
+    },
+    {
+        "Date": "18 July",
+        "Grade": "third , fourth , fifth",
+        "Word": "Brush",
+        "WordType": "Noun",
+        "Synonyms": "Bristle, Sweep",
+        "Antonyms": "Smooth",
+        "Example1": "Paint with a brush.",
+        "Example2": "The brush is soft."
+    },
+    {
+        "Date": "18 July",
+        "Grade": "sixth , seventh , eighth , ninth",
+        "Word": "Venture",
+        "WordType": "Noun/Verb",
+        "Synonyms": "Risk, Enterprise",
+        "Antonyms": "Safety",
+        "Example1": "Starting a business is a risky venture.",
+        "Example2": "She ventured into the unknown."
+    },
+    {
+        "Date": "18 July",
+        "Grade": "tenth , eleventh , twelfth , adult",
+        "Word": "Lucid",
+        "WordType": "Adjective",
+        "Synonyms": "Clear, Transparent",
+        "Antonyms": "Confusing, Obscure",
+        "Example1": "She gave a lucid explanation of the complex topic.",
+        "Example2": "His writing style is clear and lucid."
+    },
+    {
+        "Date": "19 July",
+        "Grade": "kg , first , second",
+        "Word": "Earth",
+        "WordType": "Noun",
+        "Synonyms": "World, Globe",
+        "Antonyms": "Space",
+        "Example1": "The Earth is our planet.",
+        "Example2": "Plants grow in the earth."
+    },
+    {
+        "Date": "19 July",
+        "Grade": "third , fourth , fifth",
+        "Word": "Paper",
+        "WordType": "Noun",
+        "Synonyms": "Sheet, Document",
+        "Antonyms": "Plastic",
+        "Example1": "Write on the paper.",
+        "Example2": "Paper is recyclable."
+    },
+    {
+        "Date": "19 July",
+        "Grade": "sixth , seventh , eighth , ninth",
+        "Word": "Vigilant",
+        "WordType": "Adjective",
+        "Synonyms": "Alert, Watchful",
+        "Antonyms": "Careless",
+        "Example1": "The guards remained vigilant throughout.",
+        "Example2": "She was vigilant in protecting her privacy."
+    },
+    {
+        "Date": "19 July",
+        "Grade": "tenth , eleventh , twelfth , adult",
+        "Word": "Malignant",
+        "WordType": "Adjective",
+        "Synonyms": "Harmful, Malevolent",
+        "Antonyms": "Benign, Beneficial",
+        "Example1": "The tumor turned out to be malignant.",
+        "Example2": "His malignant intentions were evident from his actions."
+    },
+    {
+        "Date": "20 July",
+        "Grade": "kg , first , second",
+        "Word": "Early",
+        "WordType": "Adjective",
+        "Synonyms": "Premature, Timely",
+        "Antonyms": "Late",
+        "Example1": "We arrived early for the movie.",
+        "Example2": "He woke up early in the morning."
+    },
+    {
+        "Date": "20 July",
+        "Grade": "third , fourth , fifth",
+        "Word": "Music",
+        "WordType": "Noun",
+        "Synonyms": "Melody, Tune",
+        "Antonyms": "Silence",
+        "Example1": "Listen to the music.",
+        "Example2": "Music soothes the soul."
+    },
+    {
+        "Date": "20 July",
+        "Grade": "sixth , seventh , eighth , ninth",
+        "Word": "Whimsical",
+        "WordType": "Adjective",
+        "Synonyms": "Playful, Fanciful",
+        "Antonyms": "Serious",
+        "Example1": "Her paintings are whimsical and colorful.",
+        "Example2": "His whimsical humor lightened the mood."
+    },
+    {
+        "Date": "20 July",
+        "Grade": "tenth , eleventh , twelfth , adult",
+        "Word": "Maverick",
+        "WordType": "Noun",
+        "Synonyms": "Nonconformist, Rebel",
+        "Antonyms": "Conformist, Traditionalist",
+        "Example1": "He was known as a maverick in the corporate world.",
+        "Example2": "She admired his courage to be a maverick in his field."
+    },
+    {
+        "Date": "21 July",
+        "Grade": "kg , first , second",
+        "Word": "Fun",
+        "WordType": "Noun",
+        "Synonyms": "Enjoyment, Playfulness",
+        "Antonyms": "Boredom, Seriousness",
+        "Example1": "Learning is fun.",
+        "Example2": "Playing with friends is always fun."
+    },
+    {
+        "Date": "21 July",
+        "Grade": "third , fourth , fifth",
+        "Word": "Clock",
+        "WordType": "Noun",
+        "Synonyms": "Timepiece, Watch",
+        "Antonyms": "Fast",
+        "Example1": "Check the clock.",
+        "Example2": "The clock ticks loudly."
+    },
+    {
+        "Date": "21 July",
+        "Grade": "sixth , seventh , eighth , ninth",
+        "Word": "Zeal",
+        "WordType": "Noun",
+        "Synonyms": "Passion, Enthusiasm",
+        "Antonyms": "Apathy",
+        "Example1": "She approached her work with great zeal.",
+        "Example2": "Their zeal for learning was inspiring."
+    },
+    {
+        "Date": "21 July",
+        "Grade": "tenth , eleventh , twelfth , adult",
+        "Word": "Mitigate",
+        "WordType": "Verb",
+        "Synonyms": "Alleviate, Reduce",
+        "Antonyms": "Aggravate, Intensify",
+        "Example1": "Planting trees can help mitigate the effects of climate change.",
+        "Example2": "The doctor prescribed medication to mitigate the pain."
+    },
+    {
+        "Date": "22 July",
+        "Grade": "kg , first , second",
+        "Word": "Friend",
+        "WordType": "Noun",
+        "Synonyms": "Pal, Buddy",
+        "Antonyms": "Enemy",
+        "Example1": "Sarah is my best friend.",
+        "Example2": "We are friends because we help each other."
+    },
+    {
+        "Date": "22 July",
+        "Grade": "third , fourth , fifth",
+        "Word": "Door",
+        "WordType": "Noun",
+        "Synonyms": "Entrance, Gate",
+        "Antonyms": "Closed",
+        "Example1": "Knock on the door.",
+        "Example2": "The door is locked."
+    },
+    {
+        "Date": "22 July",
+        "Grade": "sixth , seventh , eighth , ninth",
+        "Word": "Capitulate",
+        "WordType": "Verb",
+        "Synonyms": "Surrender, Yield",
+        "Antonyms": "Resist, Fight",
+        "Example1": "The army had to capitulate to the enemy's demands.",
+        "Example2": "After a long negotiation, they decided to capitulate."
+    },
+    {
+        "Date": "22 July",
+        "Grade": "tenth , eleventh , twelfth , adult",
+        "Word": "Nefarious",
+        "WordType": "Adjective",
+        "Synonyms": "Wicked, Evil",
+        "Antonyms": "Virtuous, Good",
+        "Example1": "The nefarious activities of the criminal organization were exposed.",
+        "Example2": "She uncovered a nefarious plot to overthrow the government."
+    },
+    {
+        "Date": "23 July",
+        "Grade": "kg , first , second",
+        "Word": "Fast",
+        "WordType": "Adjective",
+        "Synonyms": "Quick, Rapid",
+        "Antonyms": "Slow",
+        "Example1": "The rabbit is fast.",
+        "Example2": "I like to run fast."
+    },
+    {
+        "Date": "23 July",
+        "Grade": "third , fourth , fifth",
+        "Word": "Earth",
+        "WordType": "Noun",
+        "Synonyms": "Planet, Globe",
+        "Antonyms": "Space",
+        "Example1": "We live on planet Earth.",
+        "Example2": "Earth is our home."
+    },
+    {
+        "Date": "23 July",
+        "Grade": "sixth , seventh , eighth , ninth",
+        "Word": "Cogent",
+        "WordType": "Adjective",
+        "Synonyms": "Convincing, Persuasive",
+        "Antonyms": "Weak, Ineffective",
+        "Example1": "His cogent argument swayed the jury's opinion.",
+        "Example2": "The professor presented a cogent case for his theory."
+    },
+    {
+        "Date": "23 July",
+        "Grade": "tenth , eleventh , twelfth , adult",
+        "Word": "Obfuscate",
+        "WordType": "Verb",
+        "Synonyms": "Confuse, Muddle",
+        "Antonyms": "Clarify, Illuminate",
+        "Example1": "The politician tried to obfuscate the issue with vague statements.",
+        "Example2": "Her attempts to obfuscate the truth were unsuccessful."
+    },
+    {
+        "Date": "24 July",
+        "Grade": "kg , first , second",
+        "Word": "Fruit",
+        "WordType": "Noun",
+        "Synonyms": "Produce, Harvest",
+        "Antonyms": "Junk food",
+        "Example1": "Apples are a type of fruit.",
+        "Example2": "I like to eat fruit for a snack."
+    },
+    {
+        "Date": "24 July",
+        "Grade": "third , fourth , fifth",
+        "Word": "Flower",
+        "WordType": "Noun",
+        "Synonyms": "Bloom, Blossom",
+        "Antonyms": "Wilt",
+        "Example1": "She loves flower gardens.",
+        "Example2": "Pick a flower for her."
+    },
+    {
+        "Date": "24 July",
+        "Grade": "sixth , seventh , eighth , ninth",
+        "Word": "Complacent",
+        "WordType": "Adjective",
+        "Synonyms": "Self-satisfied, Smug",
+        "Antonyms": "Ambitious, Driven",
+        "Example1": "Their complacent attitude led to their downfall.",
+        "Example2": "She was complacent with her mediocre performance."
+    },
+    {
+        "Date": "24 July",
+        "Grade": "tenth , eleventh , twelfth , adult",
+        "Word": "Onerous",
+        "WordType": "Adjective",
+        "Synonyms": "Burdensome, Taxing",
+        "Antonyms": "Easy, Effortless",
+        "Example1": "The onerous task of writing a thesis loomed over him.",
+        "Example2": "She found the onerous responsibility overwhelming."
+    },
+    {
+        "Date": "25 July",
+        "Grade": "kg , first , second",
+        "Word": "Fish",
+        "WordType": "Noun",
+        "Synonyms": "Seafood, Aquatic creature",
+        "Antonyms": "Land animal",
+        "Example1": "Goldfish live in water.",
+        "Example2": "We saw colorful fish at the aquarium."
+    },
+    {
+        "Date": "25 July",
+        "Grade": "third , fourth , fifth",
+        "Word": "Happy",
+        "WordType": "Adjective",
+        "Synonyms": "Joyful, Glad",
+        "Antonyms": "Sad, Unhappy",
+        "Example1": "She felt happy today.",
+        "Example2": "He looks very happy."
+    },
+    {
+        "Date": "25 July",
+        "Grade": "sixth , seventh , eighth , ninth",
+        "Word": "Conundrum",
+        "WordType": "Noun",
+        "Synonyms": "Puzzle, Riddle",
+        "Antonyms": "Solution, Clarity",
+        "Example1": "Solving the conundrum of climate change is crucial.",
+        "Example2": "The detective faced a conundrum in the murder case."
+    },
+    {
+        "Date": "25 July",
+        "Grade": "tenth , eleventh , twelfth , adult",
+        "Word": "Paradox",
+        "WordType": "Noun",
+        "Synonyms": "Contradiction, Enigma",
+        "Antonyms": "Truth, Certainty",
+        "Example1": "The concept of time travel creates a paradox.",
+        "Example2": "His life was a paradox of success and loneliness."
+    },
+    {
+        "Date": "26 July",
+        "Grade": "kg , first , second",
+        "Word": "Fly",
+        "WordType": "Verb",
+        "Synonyms": "Soar, Glide",
+        "Antonyms": "Crawl",
+        "Example1": "Birds can fly.",
+        "Example2": "The kite can fly high in the sky."
+    },
+    {
+        "Date": "26 July",
+        "Grade": "third , fourth , fifth",
+        "Word": "Hat",
+        "WordType": "Noun",
+        "Synonyms": "Cap, Headgear",
+        "Antonyms": "Bare",
+        "Example1": "Wear a hat in the sun.",
+        "Example2": "The hat is stylish."
+    },
+    {
+        "Date": "26 July",
+        "Grade": "sixth , seventh , eighth , ninth",
+        "Word": "Copious",
+        "WordType": "Adjective",
+        "Synonyms": "Abundant, Plentiful",
+        "Antonyms": "Scarce, Limited",
+        "Example1": "The writer had copious notes for her novel.",
+        "Example2": "The garden was filled with copious flowers."
+    },
+    {
+        "Date": "26 July",
+        "Grade": "tenth , eleventh , twelfth , adult",
+        "Word": "Perfidious",
+        "WordType": "Adjective",
+        "Synonyms": "Treacherous, Betraying",
+        "Antonyms": "Faithful, Loyal",
+        "Example1": "His perfidious actions shattered her trust in him.",
+        "Example2": "She never expected such perfidious behavior from her friend."
+    },
+    {
+        "Date": "27 July",
+        "Grade": "kg , first , second",
+        "Word": "Flag",
+        "WordType": "Noun",
+        "Synonyms": "Banner, Pennant",
+        "Antonyms": "No flag",
+        "Example1": "The flag has red and white stripes.",
+        "Example2": "We raised the flag during the ceremony."
+    },
+    {
+        "Date": "27 July",
+        "Grade": "third , fourth , fifth",
+        "Word": "Mirror",
+        "WordType": "Noun",
+        "Synonyms": "Reflection, Glass",
+        "Antonyms": "Blur",
+        "Example1": "Look in the mirror.",
+        "Example2": "The mirror is cracked."
+    },
+    {
+        "Date": "27 July",
+        "Grade": "sixth , seventh , eighth , ninth",
+        "Word": "Credulous",
+        "WordType": "Adjective",
+        "Synonyms": "Gullible, Trusting",
+        "Antonyms": "Skeptical, Suspicious",
+        "Example1": "He was so credulous that he believed everything he heard.",
+        "Example2": "Her credulous nature often led her into trouble."
+    },
+    {
+        "Date": "27 July",
+        "Grade": "tenth , eleventh , twelfth , adult",
+        "Word": "Perfunctory",
+        "WordType": "Adjective",
+        "Synonyms": "Automatic, Mechanical",
+        "Antonyms": "Thorough, Diligent",
+        "Example1": "His perfunctory apology didn't seem sincere.",
+        "Example2": "She gave a perfunctory wave before leaving."
+    },
+    {
+        "Date": "28 July",
+        "Grade": "kg , first , second",
+        "Word": "Frog",
+        "WordType": "Noun",
+        "Synonyms": "Amphibian, Toad",
+        "Antonyms": "Mammal",
+        "Example1": "Frogs have long tongues.",
+        "Example2": "We heard frogs croaking by the pond."
+    },
+    {
+        "Date": "28 July",
+        "Grade": "third , fourth , fifth",
+        "Word": "Shirt",
+        "WordType": "Noun",
+        "Synonyms": "Top, Blouse",
+        "Antonyms": "Naked",
+        "Example1": "Put on a shirt.",
+        "Example2": "The shirt is striped."
+    },
+    {
+        "Date": "28 July",
+        "Grade": "sixth , seventh , eighth , ninth",
+        "Word": "Cryptic",
+        "WordType": "Adjective",
+        "Synonyms": "Enigmatic, Mysterious",
+        "Antonyms": "Clear, Obvious",
+        "Example1": "The message was cryptic and hard to decipher.",
+        "Example2": "His cryptic smile made her uneasy."
+    },
+    {
+        "Date": "28 July",
+        "Grade": "tenth , eleventh , twelfth , adult",
+        "Word": "Perspicacious",
+        "WordType": "Adjective",
+        "Synonyms": "Insightful, Discerning",
+        "Antonyms": "Oblivious, Unperceptive",
+        "Example1": "His perspicacious observations often surprised others.",
+        "Example2": "She showed a perspicacious understanding of human behavior."
+    },
+    {
+        "Date": "29 July",
+        "Grade": "kg , first , second",
+        "Word": "Field",
+        "WordType": "Noun",
+        "Synonyms": "Meadow, Pasture",
+        "Antonyms": "Urban area",
+        "Example1": "We played soccer in the field.",
+        "Example2": "The farmer planted crops in the field."
+    },
+    {
+        "Date": "29 July",
+        "Grade": "third , fourth , fifth",
+        "Word": "Shoes",
+        "WordType": "Noun",
+        "Synonyms": "Footwear, Boots",
+        "Antonyms": "Barefoot",
+        "Example1": "Tie your shoes.",
+        "Example2": "The shoes are new."
+    },
+    {
+        "Date": "29 July",
+        "Grade": "sixth , seventh , eighth , ninth",
+        "Word": "Deleterious",
+        "WordType": "Adjective",
+        "Synonyms": "Harmful, Damaging",
+        "Antonyms": "Beneficial, Helpful",
+        "Example1": "Smoking has deleterious effects on health.",
+        "Example2": "The chemicals had a deleterious impact on the environment."
+    },
+    {
+        "Date": "29 July",
+        "Grade": "tenth , eleventh , twelfth , adult",
+        "Word": "Petulant",
+        "WordType": "Adjective",
+        "Synonyms": "Irritable, Cranky",
+        "Antonyms": "Calm, Patient",
+        "Example1": "His petulant behavior annoyed everyone around him.",
+        "Example2": "She was embarrassed by her petulant outburst."
+    },
+    {
+        "Date": "30 July",
+        "Grade": "kg , first , second",
+        "Word": "Flower",
+        "WordType": "Noun",
+        "Synonyms": "Blossom, Bloom",
+        "Antonyms": "Wither",
+        "Example1": "Roses are beautiful flowers.",
+        "Example2": "I picked a bouquet of flowers for my mom."
+    },
+    {
+        "Date": "30 July",
+        "Grade": "third , fourth , fifth",
+        "Word": "Sock",
+        "WordType": "Noun",
+        "Synonyms": "Footwear, Stocking",
+        "Antonyms": "Barefoot",
+        "Example1": "Put on your socks.",
+        "Example2": "The sock is warm."
+    },
+    {
+        "Date": "30 July",
+        "Grade": "sixth , seventh , eighth , ninth",
+        "Word": "Denounce",
+        "WordType": "Verb",
+        "Synonyms": "Condemn, Censure",
+        "Antonyms": "Praise, Endorse",
+        "Example1": "The government denounced the terrorist activities.",
+        "Example2": "She denounced his unethical behavior publicly."
+    },
+    {
+        "Date": "30 July",
+        "Grade": "tenth , eleventh , twelfth , adult",
+        "Word": "Pinnacle",
+        "WordType": "Noun",
+        "Synonyms": "Peak, Summit",
+        "Antonyms": "Bottom, Base",
+        "Example1": "Winning the championship was the pinnacle of his career.",
+        "Example2": "The company's success reached its pinnacle last year."
+    },
+    {
+        "Date": "31 July",
+        "Grade": "kg , first , second",
+        "Word": "Garden",
+        "WordType": "Noun",
+        "Synonyms": "Yard, Park",
+        "Antonyms": "Indoors",
+        "Example1": "We planted flowers in the garden.",
+        "Example2": "Let's play in the garden."
+    },
+    {
+        "Date": "31 July",
+        "Grade": "third , fourth , fifth",
+        "Word": "Table",
+        "WordType": "Noun",
+        "Synonyms": "Desk, Furniture",
+        "Antonyms": "Floor",
+        "Example1": "Eat at the table.",
+        "Example2": "The table is round."
+    },
+    {
+        "Date": "31 July",
+        "Grade": "sixth , seventh , eighth , ninth",
+        "Word": "Diligent",
+        "WordType": "Adjective",
+        "Synonyms": "Hardworking, Industrious",
+        "Antonyms": "Lazy, Slothful",
+        "Example1": "His diligent study habits paid off in the exams.",
+        "Example2": "She was diligent in completing her tasks on time."
+    },
+    {
+        "Date": "31 July",
+        "Grade": "tenth , eleventh , twelfth , adult",
+        "Word": "Pithy",
+        "WordType": "Adjective",
+        "Synonyms": "Concise, Brief",
+        "Antonyms": "Long-winded, Wordy",
+        "Example1": "His pithy remarks were always to the point.",
+        "Example2": "She appreciated the pithy advice from her mentor."
+    },
+    {
+        "Date": "1 August",
+        "Grade": "kg , first , second",
+        "Word": "Giant",
+        "WordType": "Noun",
+        "Synonyms": "Huge, Big",
+        "Antonyms": "Tiny",
+        "Example1": "The giant was as tall as a tree.",
+        "Example2": "The giant's footsteps were loud."
+    },
+    {
+        "Date": "1 August",
+        "Grade": "third , fourth , fifth",
+        "Word": "Window",
+        "WordType": "Noun",
+        "Synonyms": "Glass, Pane",
+        "Antonyms": "Wall",
+        "Example1": "Look out the window.",
+        "Example2": "Open the window."
+    },
+    {
+        "Date": "1 August",
+        "Grade": "sixth , seventh , eighth , ninth",
+        "Word": "Disparage",
+        "WordType": "Verb",
+        "Synonyms": "Belittle, Criticize",
+        "Antonyms": "Praise, Admire",
+        "Example1": "He often disparaged his colleague's work.",
+        "Example2": "She felt disparaged by his hurtful comments."
+    },
+    {
+        "Date": "1 August",
+        "Grade": "tenth , eleventh , twelfth , adult",
+        "Word": "Placate",
+        "WordType": "Verb",
+        "Synonyms": "Pacify, Appease",
+        "Antonyms": "Agitate, Provoke",
+        "Example1": "The teacher tried to placate the upset student.",
+        "Example2": "He placated his hunger with a snack."
+    },
+    {
+        "Date": "2 August",
+        "Grade": "kg , first , second",
+        "Word": "Gentle",
+        "WordType": "Adjective",
+        "Synonyms": "Kind, Soft",
+        "Antonyms": "Rough",
+        "Example1": "Be gentle with the puppy.",
+        "Example2": "She spoke in a gentle voice."
+    },
+    {
+        "Date": "2 August",
+        "Grade": "third , fourth , fifth",
+        "Word": "Abundant",
+        "WordType": "Adjective",
+        "Synonyms": "Plentiful, Ample",
+        "Antonyms": "Scarce, Limited",
+        "Example1": "The forest is abundant with wildlife.",
+        "Example2": "She has an abundant collection of toys."
+    },
+    {
+        "Date": "2 August",
+        "Grade": "sixth , seventh , eighth , ninth",
+        "Word": "Disparate",
+        "WordType": "Adjective",
+        "Synonyms": "Different, Diverse",
+        "Antonyms": "Similar, Alike",
+        "Example1": "Their disparate opinions made consensus difficult.",
+        "Example2": "The two cultures had disparate customs."
+    },
+    {
+        "Date": "2 August",
+        "Grade": "tenth , eleventh , twelfth , adult",
+        "Word": "Quixotic",
+        "WordType": "Adjective",
+        "Synonyms": "Idealistic, Romantic",
+        "Antonyms": "Practical, Realistic",
+        "Example1": "His quixotic quest for world peace inspired many.",
+        "Example2": "She dismissed his quixotic notions as impractical."
+    },
+    {
+        "Date": "3 August",
+        "Grade": "kg , first , second",
+        "Word": "Gift",
+        "WordType": "Noun",
+        "Synonyms": "Present, Prize",
+        "Antonyms": "Return",
+        "Example1": "I got a gift for my birthday.",
+        "Example2": "Let's wrap the gift in colorful paper."
+    },
+    {
+        "Date": "3 August",
+        "Grade": "third , fourth , fifth",
+        "Word": "Achieve",
+        "WordType": "Verb",
+        "Synonyms": "Accomplish, Attain",
+        "Antonyms": "Fail, Lose",
+        "Example1": "If you work hard, you can achieve your goals.",
+        "Example2": "He hopes to achieve his dream of becoming a pilot."
+    },
+    {
+        "Date": "3 August",
+        "Grade": "sixth , seventh , eighth , ninth",
+        "Word": "Eclectic",
+        "WordType": "Adjective",
+        "Synonyms": "Diverse, Varied",
+        "Antonyms": "Homogeneous, Uniform",
+        "Example1": "Her taste in music is eclectic, ranging from jazz to rock.",
+        "Example2": "He had an eclectic collection of vintage items."
+    },
+    {
+        "Date": "3 August",
+        "Grade": "tenth , eleventh , twelfth , adult",
+        "Word": "Rancor",
+        "WordType": "Noun",
+        "Synonyms": "Resentment, Animosity",
+        "Antonyms": "Love, Affection",
+        "Example1": "Despite their past conflicts, there was no rancor between them.",
+        "Example2": "He couldn't let go of his rancor towards his ex-friend."
+    },
+    {
+        "Date": "4 August",
+        "Grade": "kg , first , second",
+        "Word": "Glide",
+        "WordType": "Verb",
+        "Synonyms": "Slide, Float",
+        "Antonyms": "Stop",
+        "Example1": "The bird can glide through the air.",
+        "Example2": "The skater can glide smoothly on ice."
+    },
+    {
+        "Date": "4 August",
+        "Grade": "third , fourth , fifth",
+        "Word": "Admire",
+        "WordType": "Verb",
+        "Synonyms": "Respect, Esteem",
+        "Antonyms": "Disapprove",
+        "Example1": "I admire my grandmother for her wisdom.",
+        "Example2": "She admires the singer for his talent."
+    },
+    {
+        "Date": "4 August",
+        "Grade": "sixth , seventh , eighth , ninth",
+        "Word": "Egregious",
+        "WordType": "Adjective",
+        "Synonyms": "Flagrant, Outrageous",
+        "Antonyms": "Minor, Insignificant",
+        "Example1": "His egregious errors cost the company millions.",
+        "Example2": "The movie's acting was so egregious, it was comical."
+    },
+    {
+        "Date": "4 August",
+        "Grade": "tenth , eleventh , twelfth , adult",
+        "Word": "Recalcitrant",
+        "WordType": "Adjective",
+        "Synonyms": "Stubborn, Obstinate",
+        "Antonyms": "Compliant, Obedient",
+        "Example1": "The recalcitrant student refused to do his homework.",
+        "Example2": "She was frustrated by her recalcitrant computer."
+    },
+    {
+        "Date": "5 August",
+        "Grade": "kg , first , second",
+        "Word": "Globe",
+        "WordType": "Noun",
+        "Synonyms": "Earth, World",
+        "Antonyms": "Locality",
+        "Example1": "We learned about the Earth from the globe.",
+        "Example2": "The globe shows different countries."
+    },
+    {
+        "Date": "5 August",
+        "Grade": "third , fourth , fifth",
+        "Word": "Alert",
+        "WordType": "Adjective",
+        "Synonyms": "Vigilant, Watchful",
+        "Antonyms": "Careless, Unaware",
+        "Example1": "Be alert while crossing the road.",
+        "Example2": "The guard remained alert throughout the night."
+    },
+    {
+        "Date": "5 August",
+        "Grade": "sixth , seventh , eighth , ninth",
+        "Word": "Eloquent",
+        "WordType": "Adjective",
+        "Synonyms": "Fluent, Expressive",
+        "Antonyms": "Inarticulate, Tongue-tied",
+        "Example1": "His eloquent speech moved the audience to tears.",
+        "Example2": "She was an eloquent writer, captivating her readers."
+    },
+    {
+        "Date": "5 August",
+        "Grade": "tenth , eleventh , twelfth , adult",
+        "Word": "Redundant",
+        "WordType": "Adjective",
+        "Synonyms": "Unnecessary, Excessive",
+        "Antonyms": "Necessary, Essential",
+        "Example1": "His speech was full of redundant information.",
+        "Example2": "The redundant position was eliminated from the company."
+    },
+    {
+        "Date": "6 August",
+        "Grade": "kg , first , second",
+        "Word": "Grace",
+        "WordType": "Noun",
+        "Synonyms": "Elegance, Poise",
+        "Antonyms": "Clumsiness",
+        "Example1": "She danced with grace.",
+        "Example2": "The swan moved with grace on the water."
+    },
+    {
+        "Date": "6 August",
+        "Grade": "third , fourth , fifth",
+        "Word": "Ancient",
+        "WordType": "Adjective",
+        "Synonyms": "Antiquated, Old",
+        "Antonyms": "Modern, New",
+        "Example1": "The ancient ruins fascinated the archaeologists.",
+        "Example2": "They studied ancient civilizations in history class."
+    },
+    {
+        "Date": "6 August",
+        "Grade": "sixth , seventh , eighth , ninth",
+        "Word": "Empathy",
+        "WordType": "Noun",
+        "Synonyms": "Compassion, Understanding",
+        "Antonyms": "Apathy, Indifference",
+        "Example1": "He showed empathy towards the homeless.",
+        "Example2": "She lacked empathy for her friend's struggles."
+    },
+    {
+        "Date": "6 August",
+        "Grade": "tenth , eleventh , twelfth , adult",
+        "Word": "Resilient",
+        "WordType": "Adjective",
+        "Synonyms": "Flexible, Tough",
+        "Antonyms": "Fragile, Vulnerable",
+        "Example1": "Despite facing many setbacks, he remained resilient.",
+        "Example2": "The community showed its resilient spirit after the disaster."
+    },
+    {
+        "Date": "7 August",
+        "Grade": "kg , first , second",
+        "Word": "Grin",
+        "WordType": "Verb",
+        "Synonyms": "Smile, Beam",
+        "Antonyms": "Frown",
+        "Example1": "He grinned when he saw the surprise.",
+        "Example2": "She couldn't help but grin at the joke."
+    },
+    {
+        "Date": "7 August",
+        "Grade": "third , fourth , fifth",
+        "Word": "Apparent",
+        "WordType": "Adjective",
+        "Synonyms": "Evident, Clear",
+        "Antonyms": "Hidden, Obscure",
+        "Example1": "His disappointment was apparent to everyone.",
+        "Example2": "It became apparent that she was lying."
+    },
+    {
+        "Date": "7 August",
+        "Grade": "sixth , seventh , eighth , ninth",
+        "Word": "Ephemeral",
+        "WordType": "Adjective",
+        "Synonyms": "Transient, Short-lived",
+        "Antonyms": "Permanent, Eternal",
+        "Example1": "Youth is ephemeral; enjoy it while it lasts.",
+        "Example2": "The beauty of the sunset was ephemeral."
+    },
+    {
+        "Date": "7 August",
+        "Grade": "tenth , eleventh , twelfth , adult",
+        "Word": "Reticent",
+        "WordType": "Adjective",
+        "Synonyms": "Reserved, Introverted",
+        "Antonyms": "Outgoing, Talkative",
+        "Example1": "She was reticent about discussing her personal life.",
+        "Example2": "He remained reticent during the entire meeting."
+    },
+    {
+        "Date": "8 August",
+        "Grade": "kg , first , second",
+        "Word": "Group",
+        "WordType": "Noun",
+        "Synonyms": "Team, Bunch",
+        "Antonyms": "Alone",
+        "Example1": "Let's work together as a group.",
+        "Example2": "The children formed a group for the game."
+    },
+    {
+        "Date": "8 August",
+        "Grade": "third , fourth , fifth",
+        "Word": "Approach",
+        "WordType": "Verb",
+        "Synonyms": "Advance, Near",
+        "Antonyms": "Retreat, Withdraw",
+        "Example1": "We need to approach the problem from a different angle.",
+        "Example2": "He approached the stranger cautiously."
+    },
+    {
+        "Date": "8 August",
+        "Grade": "sixth , seventh , eighth , ninth",
+        "Word": "Erudite",
+        "WordType": "Adjective",
+        "Synonyms": "Learned, Scholarly",
+        "Antonyms": "Ignorant, Uneducated",
+        "Example1": "The professor was erudite in various fields.",
+        "Example2": "She displayed her erudite knowledge in the debate."
+    },
+    {
+        "Date": "8 August",
+        "Grade": "tenth , eleventh , twelfth , adult",
+        "Word": "Sagacious",
+        "WordType": "Adjective",
+        "Synonyms": "Wise, Insightful",
+        "Antonyms": "Foolish, Ignorant",
+        "Example1": "His sagacious advice guided me through tough times.",
+        "Example2": "She showed a sagacious understanding of human nature."
+    },
+    {
+        "Date": "9 August",
+        "Grade": "kg , first , second",
+        "Word": "Grow",
+        "WordType": "Verb",
+        "Synonyms": "Develop, Expand",
+        "Antonyms": "Shrink",
+        "Example1": "Plants need sunlight to grow.",
+        "Example2": "I hope to grow taller this year."
+    },
+    {
+        "Date": "9 August",
+        "Grade": "third , fourth , fifth",
+        "Word": "Arrange",
+        "WordType": "Verb",
+        "Synonyms": "Organize, Sort",
+        "Antonyms": "Disarrange",
+        "Example1": "Let's arrange the books alphabetically.",
+        "Example2": "She arranged the flowers in a vase."
+    },
+    {
+        "Date": "9 August",
+        "Grade": "sixth , seventh , eighth , ninth",
+        "Word": "Esoteric",
+        "WordType": "Adjective",
+        "Synonyms": "Obscure, Arcane",
+        "Antonyms": "Common, Accessible",
+        "Example1": "The topic was esoteric and difficult to understand.",
+        "Example2": "She had an esoteric taste in literature."
+    },
+    {
+        "Date": "9 August",
+        "Grade": "tenth , eleventh , twelfth , adult",
+        "Word": "Salient",
+        "WordType": "Adjective",
+        "Synonyms": "Prominent, Notable",
+        "Antonyms": "Insignificant, Obscure",
+        "Example1": "The salient features of the painting caught my attention.",
+        "Example2": "The report highlighted the salient points of the discussion."
+    },
+    {
+        "Date": "10 August",
+        "Grade": "kg , first , second",
+        "Word": "Happy",
+        "WordType": "Adjective",
+        "Synonyms": "Joyful, Pleased",
+        "Antonyms": "Sad, Unhappy",
+        "Example1": "She felt happy when she got a gift.",
+        "Example2": "The children were happy to see their friends."
+    },
+    {
+        "Date": "10 August",
+        "Grade": "third , fourth , fifth",
+        "Word": "Assemble",
+        "WordType": "Verb",
+        "Synonyms": "Gather, Collect",
+        "Antonyms": "Disperse",
+        "Example1": "They will assemble in the gymnasium for the meeting.",
+        "Example2": "We need to assemble the parts to build the model."
+    },
+    {
+        "Date": "10 August",
+        "Grade": "sixth , seventh , eighth , ninth",
+        "Word": "Euphemism",
+        "WordType": "Noun",
+        "Synonyms": "Substitution, Mild term",
+        "Antonyms": "Bluntness, Directness",
+        "Example1": "Pass away is a euphemism for \"die.",
+        "Example2": "Saying \"let go\" is a euphemism for \"fired."
+    },
+    {
+        "Date": "10 August",
+        "Grade": "tenth , eleventh , twelfth , adult",
+        "Word": "Serendipity",
+        "WordType": "Noun",
+        "Synonyms": "Luck, Fortune",
+        "Antonyms": "Misfortune, Disaster",
+        "Example1": "They met by serendipity and fell in love.",
+        "Example2": "The discovery of penicillin was a serendipitous accident."
+    },
+    {
+        "Date": "11 August",
+        "Grade": "kg , first , second",
+        "Word": "Help",
+        "WordType": "Verb",
+        "Synonyms": "Assist, Aid",
+        "Antonyms": "Hinder, Obstruct",
+        "Example1": "Can you help me with my homework?",
+        "Example2": "I helped my mom bake cookies."
+    },
+    {
+        "Date": "11 August",
+        "Grade": "third , fourth , fifth",
+        "Word": "Assist",
+        "WordType": "Verb",
+        "Synonyms": "Help, Aid",
+        "Antonyms": "Hinder, Obstruct",
+        "Example1": "The teacher will assist you with any questions.",
+        "Example2": "He assisted his friend in fixing the bike."
+    },
+    {
+        "Date": "11 August",
+        "Grade": "sixth , seventh , eighth , ninth",
+        "Word": "Exacerbate",
+        "WordType": "Verb",
+        "Synonyms": "Aggravate, Worsen",
+        "Antonyms": "Alleviate, Improve",
+        "Example1": "His comments only served to exacerbate the situation.",
+        "Example2": "The drought exacerbated the already dire situation."
+    },
+    {
+        "Date": "11 August",
+        "Grade": "tenth , eleventh , twelfth , adult",
+        "Word": "Soporific",
+        "WordType": "Adjective",
+        "Synonyms": "Sleep-inducing, Drowsy",
+        "Antonyms": "Stimulating, Invigorating",
+        "Example1": "The professor's lectures were soporific.",
+        "Example2": "She found the music to be soporific and relaxing."
+    },
+    {
+        "Date": "12 August",
+        "Grade": "kg , first , second",
+        "Word": "High",
+        "WordType": "Adjective",
+        "Synonyms": "Tall, Elevated",
+        "Antonyms": "Low, Short",
+        "Example1": "The kite flew high in the sky.",
+        "Example2": "The giraffe has a high neck."
+    },
+    {
+        "Date": "12 August",
+        "Grade": "third , fourth , fifth",
+        "Word": "Attempt",
+        "WordType": "Verb",
+        "Synonyms": "Try, Endeavor",
+        "Antonyms": "Avoid, Neglect",
+        "Example1": "She will attempt the challenging puzzle.",
+        "Example2": "He attempted to climb the tree."
+    },
+    {
+        "Date": "12 August",
+        "Grade": "sixth , seventh , eighth , ninth",
+        "Word": "Exemplary",
+        "WordType": "Adjective",
+        "Synonyms": "Model, Outstanding",
+        "Antonyms": "Inferior, Mediocre",
+        "Example1": "Her exemplary leadership inspired the team.",
+        "Example2": "He set an exemplary standard for others to follow."
+    },
+    {
+        "Date": "12 August",
+        "Grade": "tenth , eleventh , twelfth , adult",
+        "Word": "Superfluous",
+        "WordType": "Adjective",
+        "Synonyms": "Excessive, Redundant",
+        "Antonyms": "Necessary, Essential",
+        "Example1": "The extra details in the report were superfluous.",
+        "Example2": "She removed the superfluous decorations from the room."
+    },
+    {
+        "Date": "13 August",
+        "Grade": "kg , first , second",
+        "Word": "Heavy",
+        "WordType": "Adjective",
+        "Synonyms": "Weighty, Burdensome",
+        "Antonyms": "Light, Easy",
+        "Example1": "The box was too heavy to lift.",
+        "Example2": "The elephant is heavy."
+    },
+    {
+        "Date": "13 August",
+        "Grade": "third , fourth , fifth",
+        "Word": "Attire",
+        "WordType": "Noun",
+        "Synonyms": "Clothing, Garments",
+        "Antonyms": "Nakedness",
+        "Example1": "The princess wore elegant attire to the ball.",
+        "Example2": "The clown's attire made everyone laugh."
+    },
+    {
+        "Date": "13 August",
+        "Grade": "sixth , seventh , eighth , ninth",
+        "Word": "Exonerate",
+        "WordType": "Verb",
+        "Synonyms": "Acquit, Absolve",
+        "Antonyms": "Convict, Blame",
+        "Example1": "DNA evidence helped exonerate the wrongly accused.",
+        "Example2": "The investigation exonerated him of all charges."
+    },
+    {
+        "Date": "13 August",
+        "Grade": "tenth , eleventh , twelfth , adult",
+        "Word": "Surreptitious",
+        "WordType": "Adjective",
+        "Synonyms": "Secret, Stealthy",
+        "Antonyms": "Open, Obvious",
+        "Example1": "He made a surreptitious entrance into the party.",
+        "Example2": "She discovered the surreptitious plan to spy on her."
+    },
+    {
+        "Date": "14 August",
+        "Grade": "kg , first , second",
+        "Word": "Hot",
+        "WordType": "Adjective",
+        "Synonyms": "Warm, Sweltering",
+        "Antonyms": "Cold, Cool",
+        "Example1": "The soup is too hot to eat.",
+        "Example2": "The sun makes the day hot."
+    },
+    {
+        "Date": "14 August",
+        "Grade": "third , fourth , fifth",
+        "Word": "Avoid",
+        "WordType": "Verb",
+        "Synonyms": "Evade, Dodge",
+        "Antonyms": "Confront, Face",
+        "Example1": "Try to avoid eating too much junk food.",
+        "Example2": "He avoided the bully in the hallway."
+    },
+    {
+        "Date": "14 August",
+        "Grade": "sixth , seventh , eighth , ninth",
+        "Word": "Facetious",
+        "WordType": "Adjective",
+        "Synonyms": "Flippant, Jocular",
+        "Antonyms": "Serious, Sincere",
+        "Example1": "His facetious remarks lightened the mood.",
+        "Example2": "She couldn't tell if he was being facetious or serious."
+    },
+    {
+        "Date": "14 August",
+        "Grade": "tenth , eleventh , twelfth , adult",
+        "Word": "Tenable",
+        "WordType": "Adjective",
+        "Synonyms": "Defensible, Reasonable",
+        "Antonyms": "Unreasonable, Unjustifiable",
+        "Example1": "His argument was not tenable in court.",
+        "Example2": "She found his excuses to be tenable in the circumstances."
+    },
+    {
+        "Date": "15 August",
+        "Grade": "kg , first , second",
+        "Word": "Hello",
+        "WordType": "Interjection",
+        "Synonyms": "Hi, Greetings",
+        "Antonyms": "Goodbye, Farewell",
+        "Example1": "Hello! How are you today?",
+        "Example2": "He waved and said hello to his friend."
+    },
+    {
+        "Date": "15 August",
+        "Grade": "third , fourth , fifth",
+        "Word": "Behave",
+        "WordType": "Verb",
+        "Synonyms": "Act, Conduct",
+        "Antonyms": "Misbehave",
+        "Example1": "The children need to behave in class.",
+        "Example2": "She behaved well during the performance."
+    },
+    {
+        "Date": "15 August",
+        "Grade": "sixth , seventh , eighth , ninth",
+        "Word": "Fastidious",
+        "WordType": "Adjective",
+        "Synonyms": "Meticulous, Fussy",
+        "Antonyms": "Careless, Sloppy",
+        "Example1": "She was fastidious about cleanliness in her home.",
+        "Example2": "His fastidious nature made him a perfectionist."
+    },
+    {
+        "Date": "15 August",
+        "Grade": "tenth , eleventh , twelfth , adult",
+        "Word": "Ubiquitous",
+        "WordType": "Adjective",
+        "Synonyms": "Everywhere, Omnipresent",
+        "Antonyms": "Rare, Scarce",
+        "Example1": "Smartphones have become ubiquitous in modern society.",
+        "Example2": "The company's logo was ubiquitous in the city."
+    },
+    {
+        "Date": "16 August",
+        "Grade": "kg , first , second",
+        "Word": "House",
+        "WordType": "Noun",
+        "Synonyms": "Home, Dwelling",
+        "Antonyms": "Outside, Street",
+        "Example1": "I live in a blue house.",
+        "Example2": "The house has a red door."
+    },
+    {
+        "Date": "16 August",
+        "Grade": "third , fourth , fifth",
+        "Word": "Belong",
+        "WordType": "Verb",
+        "Synonyms": "Fit in, Own",
+        "Antonyms": "Exclude, Oust",
+        "Example1": "This book belongs on the top shelf.",
+        "Example2": "The stray cat doesn't belong here."
+    },
+    {
+        "Date": "16 August",
+        "Grade": "sixth , seventh , eighth , ninth",
+        "Word": "Furtive",
+        "WordType": "Adjective",
+        "Synonyms": "Secretive, Sneaky",
+        "Antonyms": "Open, Transparent",
+        "Example1": "He cast a furtive glance at the closed door.",
+        "Example2": "She made a furtive attempt to hide the evidence."
+    },
+    {
+        "Date": "16 August",
+        "Grade": "tenth , eleventh , twelfth , adult",
+        "Word": "Vacillate",
+        "WordType": "Verb",
+        "Synonyms": "Hesitate, Fluctuate",
+        "Antonyms": "Decide, Commit",
+        "Example1": "She vacillated between two options for hours.",
+        "Example2": "His opinions vacillated depending on who he was with."
+    },
+    {
+        "Date": "17 August",
+        "Grade": "kg , first , second",
+        "Word": "Hat",
+        "WordType": "Noun",
+        "Synonyms": "Cap, Headgear",
+        "Antonyms": "Bald, Uncovered",
+        "Example1": "She wore a hat to keep the sun off her face.",
+        "Example2": "The magician pulled a rabbit out of his hat."
+    },
+    {
+        "Date": "17 August",
+        "Grade": "third , fourth , fifth",
+        "Word": "Benefit",
+        "WordType": "Noun",
+        "Synonyms": "Advantage, Gain",
+        "Antonyms": "Disadvantage",
+        "Example1": "Eating fruits and vegetables has many health benefits.",
+        "Example2": "The fundraiser will benefit the local community."
+    },
+    {
+        "Date": "17 August",
+        "Grade": "sixth , seventh , eighth , ninth",
+        "Word": "Gregarious",
+        "WordType": "Adjective",
+        "Synonyms": "Sociable, Outgoing",
+        "Antonyms": "Introverted, Shy",
+        "Example1": "He's known for his gregarious personality at parties.",
+        "Example2": "Despite being gregarious, she valued her alone time."
+    },
+    {
+        "Date": "17 August",
+        "Grade": "tenth , eleventh , twelfth , adult",
+        "Word": "Vehement",
+        "WordType": "Adjective",
+        "Synonyms": "Passionate, Intense",
+        "Antonyms": "Mild, Gentle",
+        "Example1": "She made a vehement protest against the decision.",
+        "Example2": "He was vehement in his support for the new policy."
+    },
+    {
+        "Date": "18 August",
+        "Grade": "kg , first , second",
+        "Word": "Hungry",
+        "WordType": "Adjective",
+        "Synonyms": "Starving, Famished",
+        "Antonyms": "Full, Satisfied",
+        "Example1": "I'm hungry. Can we have lunch now?",
+        "Example2": "The bear was hungry after hibernating."
+    },
+    {
+        "Date": "18 August",
+        "Grade": "third , fourth , fifth",
+        "Word": "Boast",
+        "WordType": "Verb",
+        "Synonyms": "Brag, Flaunt",
+        "Antonyms": "Humble, Conceal",
+        "Example1": "He likes to boast about his achievements.",
+        "Example2": "She doesn't like to boast about her success."
+    },
+    {
+        "Date": "18 August",
+        "Grade": "sixth , seventh , eighth , ninth",
+        "Word": "Haughty",
+        "WordType": "Adjective",
+        "Synonyms": "Arrogant, Snobbish",
+        "Antonyms": "Humble, Modest",
+        "Example1": "His haughty demeanor offended many people.",
+        "Example2": "She couldn't stand his haughty attitude."
+    },
+    {
+        "Date": "18 August",
+        "Grade": "tenth , eleventh , twelfth , adult",
+        "Word": "Veracity",
+        "WordType": "Noun",
+        "Synonyms": "Truth, Accuracy",
+        "Antonyms": "Falsehood, Deception",
+        "Example1": "The witness's veracity was questioned by the defense.",
+        "Example2": "The journalist prioritized veracity in her reporting."
+    },
+    {
+        "Date": "19 August",
+        "Grade": "kg , first , second",
+        "Word": "Hide",
+        "WordType": "Verb",
+        "Synonyms": "Conceal, Cover",
+        "Antonyms": "Reveal, Expose",
+        "Example1": "Let's play hide and seek.",
+        "Example2": "The cat likes to hide under the bed."
+    },
+    {
+        "Date": "19 August",
+        "Grade": "third , fourth , fifth",
+        "Word": "Brief",
+        "WordType": "Adjective",
+        "Synonyms": "Concise, Short",
+        "Antonyms": "Lengthy, Detailed",
+        "Example1": "Please give a brief summary of the story.",
+        "Example2": "He received a brief explanation of the rules."
+    },
+    {
+        "Date": "19 August",
+        "Grade": "sixth , seventh , eighth , ninth",
+        "Word": "Hubris",
+        "WordType": "Noun",
+        "Synonyms": "Arrogance, Pride",
+        "Antonyms": "Humility, Modesty",
+        "Example1": "His hubris led to his downfall.",
+        "Example2": "She warned him that his hubris would be his undoing."
+    },
+    {
+        "Date": "19 August",
+        "Grade": "tenth , eleventh , twelfth , adult",
+        "Word": "Vindicate",
+        "WordType": "Verb",
+        "Synonyms": "Justify, Clear",
+        "Antonyms": "Condemn, Blame",
+        "Example1": "DNA evidence vindicated the suspect's innocence.",
+        "Example2": "Her success vindicated all the sacrifices she made."
+    },
+    {
+        "Date": "20 August",
+        "Grade": "kg , first , second",
+        "Word": "Inch",
+        "WordType": "Noun",
+        "Synonyms": "None",
+        "Antonyms": "Foot, Yard",
+        "Example1": "The worm is an inch long.",
+        "Example2": "He moved an inch closer."
+    },
+    {
+        "Date": "20 August",
+        "Grade": "third , fourth , fifth",
+        "Word": "Capture",
+        "WordType": "Verb",
+        "Synonyms": "Seize, Catch",
+        "Antonyms": "Release, Free",
+        "Example1": "The police were able to capture the thief.",
+        "Example2": "He tried to capture the butterfly with a net."
+    },
+    {
+        "Date": "20 August",
+        "Grade": "sixth , seventh , eighth , ninth",
+        "Word": "Idiosyncrasy",
+        "WordType": "Noun",
+        "Synonyms": "Peculiarity, Quirk",
+        "Antonyms": "Norm, Commonality",
+        "Example1": "His idiosyncrasy of always wearing mismatched socks amused everyone.",
+        "Example2": "She found his idiosyncrasy endearing."
+    },
+    {
+        "Date": "20 August",
+        "Grade": "tenth , eleventh , twelfth , adult",
+        "Word": "Voracious",
+        "WordType": "Adjective",
+        "Synonyms": "Ravenous, Insatiable",
+        "Antonyms": "Satisfied, Full",
+        "Example1": "She had a voracious appetite and ate three burgers.",
+        "Example2": "His voracious reading habits amazed his friends."
+    },
+    {
+        "Date": "21 August",
+        "Grade": "kg , first , second",
+        "Word": "Insect",
+        "WordType": "Noun",
+        "Synonyms": "Bug",
+        "Antonyms": "Mammal",
+        "Example1": "The butterfly is an insect.",
+        "Example2": "An ant is a tiny insect."
+    },
+    {
+        "Date": "21 August",
+        "Grade": "third , fourth , fifth",
+        "Word": "Certain",
+        "WordType": "Adjective",
+        "Synonyms": "Sure, Confident",
+        "Antonyms": "Uncertain, Doubtful",
+        "Example1": "I am certain that I locked the door.",
+        "Example2": "She felt certain that she would win the race."
+    },
+    {
+        "Date": "21 August",
+        "Grade": "sixth , seventh , eighth , ninth",
+        "Word": "Indolent",
+        "WordType": "Adjective",
+        "Synonyms": "Lazy, Slothful",
+        "Antonyms": "Industrious, Hardworking",
+        "Example1": "His indolent attitude towards work annoyed his colleagues.",
+        "Example2": "She was criticized for her indolent approach."
+    },
+    {
+        "Date": "21 August",
+        "Grade": "tenth , eleventh , twelfth , adult",
+        "Word": "Wane",
+        "WordType": "Verb",
+        "Synonyms": "Decrease, Decline",
+        "Antonyms": "Increase, Grow",
+        "Example1": "His enthusiasm for the project began to wane.",
+        "Example2": "The moon's brightness started to wane as the night went on."
+    },
+    {
+        "Date": "22 August",
+        "Grade": "kg , first , second",
+        "Word": "Inside",
+        "WordType": "Adjective",
+        "Synonyms": "Interior",
+        "Antonyms": "Outside",
+        "Example1": "The toy is inside the box.",
+        "Example2": "We're having lunch inside."
+    },
+    {
+        "Date": "22 August",
+        "Grade": "third , fourth , fifth",
+        "Word": "Challenge",
+        "WordType": "Noun",
+        "Synonyms": "Test, Trial",
+        "Antonyms": "Easy task, Breeze",
+        "Example1": "Climbing the mountain was a challenge.",
+        "Example2": "He accepted the challenge to run a marathon."
+    },
+    {
+        "Date": "22 August",
+        "Grade": "sixth , seventh , eighth , ninth",
+        "Word": "Ineffable",
+        "WordType": "Adjective",
+        "Synonyms": "Indescribable, Unspeakable",
+        "Antonyms": "Expressible, Describable",
+        "Example1": "The beauty of the scenery was ineffable.",
+        "Example2": "His joy upon winning the championship was ineffable."
+    },
+    {
+        "Date": "22 August",
+        "Grade": "tenth , eleventh , twelfth , adult",
+        "Word": "Zenith",
+        "WordType": "Noun",
+        "Synonyms": "Peak, Apex",
+        "Antonyms": "Nadir, Bottom",
+        "Example1": "Winning the championship was the zenith of his career.",
+        "Example2": "The company reached its zenith under her leadership."
+    },
+    {
+        "Date": "23 August",
+        "Grade": "kg , first , second",
+        "Word": "Imagine",
+        "WordType": "Verb",
+        "Synonyms": "Dream, Envision",
+        "Antonyms": "Reality",
+        "Example1": "Imagine you're a superhero.",
+        "Example2": "Close your eyes and imagine."
+    },
+    {
+        "Date": "23 August",
+        "Grade": "third , fourth , fifth",
+        "Word": "Channel",
+        "WordType": "Noun",
+        "Synonyms": "Route, Path",
+        "Antonyms": "Blockage, Barrier",
+        "Example1": "The river carved a deep channel through the canyon.",
+        "Example2": "She changed the channel to watch her favorite show."
+    },
+    {
+        "Date": "23 August",
+        "Grade": "sixth , seventh , eighth , ninth",
+        "Word": "Insidious",
+        "WordType": "Adjective",
+        "Synonyms": "Cunning, Stealthy",
+        "Antonyms": "Open, Obvious",
+        "Example1": "The insidious disease crept into his body unnoticed.",
+        "Example2": "The cult leader had an insidious influence on his followers."
+    },
+    {
+        "Date": "23 August",
+        "Grade": "tenth , eleventh , twelfth , adult",
+        "Word": "Acquire",
+        "WordType": "Verb",
+        "Synonyms": "Obtain, Attain",
+        "Antonyms": "Relinquish, Lose",
+        "Example1": "She acquired new skills through training.",
+        "Example2": "He acquired a company after years of effort."
+    },
+    {
+        "Date": "24 August",
+        "Grade": "kg , first , second",
+        "Word": "Ice",
+        "WordType": "Noun",
+        "Synonyms": "Frost, Frozen Water",
+        "Antonyms": "Fire",
+        "Example1": "The ice is cold.",
+        "Example2": "He put ice in his drink."
+    },
+    {
+        "Date": "24 August",
+        "Grade": "third , fourth , fifth",
+        "Word": "Chapter",
+        "WordType": "Noun",
+        "Synonyms": "Section, Segment",
+        "Antonyms": "Entirety, Whole",
+        "Example1": "We will read the next chapter tomorrow.",
+        "Example2": "He read the first chapter of the book."
+    },
+    {
+        "Date": "24 August",
+        "Grade": "sixth , seventh , eighth , ninth",
+        "Word": "Intrepid",
+        "WordType": "Adjective",
+        "Synonyms": "Fearless, Brave",
+        "Antonyms": "Timid, Cowardly",
+        "Example1": "The intrepid explorer ventured into the unknown.",
+        "Example2": "She showed intrepid courage in the face of danger."
+    },
+    {
+        "Date": "24 August",
+        "Grade": "tenth , eleventh , twelfth , adult",
+        "Word": "Adapt",
+        "WordType": "Verb",
+        "Synonyms": "Adjust, Modify",
+        "Antonyms": "Resist, Maintain",
+        "Example1": "She quickly adapted to the new work culture.",
+        "Example2": "He adapted his approach to suit the situation."
+    },
+    {
+        "Date": "25 August",
+        "Grade": "kg , first , second",
+        "Word": "Jump",
+        "WordType": "Verb",
+        "Synonyms": "Leap, hop",
+        "Antonyms": "Still",
+        "Example1": "The frog can jump high.",
+        "Example2": "I like to jump rope."
+    },
+    {
+        "Date": "25 August",
+        "Grade": "third , fourth , fifth",
+        "Word": "Cheerful",
+        "WordType": "Adjective",
+        "Synonyms": "Happy, Joyful",
+        "Antonyms": "Sad, Gloomy",
+        "Example1": "Her cheerful demeanor brightened the room.",
+        "Example2": "The children were cheerful after winning the game."
+    },
+    {
+        "Date": "25 August",
+        "Grade": "sixth , seventh , eighth , ninth",
+        "Word": "Juxtapose",
+        "WordType": "Verb",
+        "Synonyms": "Compare, Contrast",
+        "Antonyms": "Separate, Disconnect",
+        "Example1": "The artist juxtaposed light and dark in her painting.",
+        "Example2": "The author juxtaposed two conflicting ideologies."
+    },
+    {
+        "Date": "25 August",
+        "Grade": "tenth , eleventh , twelfth , adult",
+        "Word": "Analyze",
+        "WordType": "Verb",
+        "Synonyms": "Examine, Assess",
+        "Antonyms": "Neglect, Ignore",
+        "Example1": "They analyzed the data to find patterns.",
+        "Example2": "She analyzed the market before launching."
+    },
+    {
+        "Date": "26 August",
+        "Grade": "kg , first , second",
+        "Word": "Jelly",
+        "WordType": "Noun",
+        "Synonyms": "Gelatin",
+        "Antonyms": "Solid",
+        "Example1": "I spread jelly on my toast.",
+        "Example2": "The jelly wobbled on the plate."
+    },
+    {
+        "Date": "26 August",
+        "Grade": "third , fourth , fifth",
+        "Word": "Chorus",
+        "WordType": "Noun",
+        "Synonyms": "Refrain, Choir",
+        "Antonyms": "Solo, Monotone",
+        "Example1": "The chorus sang beautifully together.",
+        "Example2": "She joined the chorus for the school play."
+    },
+    {
+        "Date": "26 August",
+        "Grade": "sixth , seventh , eighth , ninth",
+        "Word": "Languid",
+        "WordType": "Adjective",
+        "Synonyms": "Lethargic, Sluggish",
+        "Antonyms": "Energetic, Vigorous",
+        "Example1": "The hot weather made her feel languid and lazy.",
+        "Example2": "His languid movements indicated his exhaustion."
+    },
+    {
+        "Date": "26 August",
+        "Grade": "tenth , eleventh , twelfth , adult",
+        "Word": "Allocate",
+        "WordType": "Verb",
+        "Synonyms": "Distribute, Assign",
+        "Antonyms": "Collect, Withhold",
+        "Example1": "They allocated resources for the project.",
+        "Example2": "He allocated time for both work and leisure."
+    },
+    {
+        "Date": "27 August",
+        "Grade": "kg , first , second",
+        "Word": "Joy",
+        "WordType": "Noun",
+        "Synonyms": "Happiness, delight",
+        "Antonyms": "Sadness",
+        "Example1": "Winning the game brought him joy.",
+        "Example2": "The children laughed with joy."
+    },
+    {
+        "Date": "27 August",
+        "Grade": "third , fourth , fifth",
+        "Word": "Clumsy",
+        "WordType": "Adjective",
+        "Synonyms": "Awkward, Ungainly",
+        "Antonyms": "Graceful, Nimble",
+        "Example1": "He's always been a bit clumsy with his hands.",
+        "Example2": "She felt clumsy in her new dance shoes."
+    },
+    {
+        "Date": "27 August",
+        "Grade": "sixth , seventh , eighth , ninth",
+        "Word": "Lucid",
+        "WordType": "Adjective",
+        "Synonyms": "Clear, Transparent",
+        "Antonyms": "Confusing, Obscure",
+        "Example1": "She gave a lucid explanation of the complex topic.",
+        "Example2": "His writing style is clear and lucid."
+    },
+    {
+        "Date": "27 August",
+        "Grade": "tenth , eleventh , twelfth , adult",
+        "Word": "Collaborate",
+        "WordType": "Verb",
+        "Synonyms": "Cooperate, Work together",
+        "Antonyms": "Isolate, Separate",
+        "Example1": "They collaborated on the research project.",
+        "Example2": "He collaborated with experts in the field."
+    },
+    {
+        "Date": "28 August",
+        "Grade": "kg , first , second",
+        "Word": "Jacket",
+        "WordType": "Noun",
+        "Synonyms": "Coat",
+        "Antonyms": "Shirt",
+        "Example1": "Put on your jacket before going out.",
+        "Example2": "Her jacket kept her warm."
+    },
+    {
+        "Date": "28 August",
+        "Grade": "third , fourth , fifth",
+        "Word": "Coast",
+        "WordType": "Noun",
+        "Synonyms": "Seashore, Shoreline",
+        "Antonyms": "Inland, Interior",
+        "Example1": "They took a walk along the coast.",
+        "Example2": "The lighthouse guided ships along the coast."
+    },
+    {
+        "Date": "28 August",
+        "Grade": "sixth , seventh , eighth , ninth",
+        "Word": "Malignant",
+        "WordType": "Adjective",
+        "Synonyms": "Harmful, Malevolent",
+        "Antonyms": "Benign, Beneficial",
+        "Example1": "The tumor turned out to be malignant.",
+        "Example2": "His malignant intentions were evident from his actions."
+    },
+    {
+        "Date": "28 August",
+        "Grade": "tenth , eleventh , twelfth , adult",
+        "Word": "Communicate",
+        "WordType": "Verb",
+        "Synonyms": "Convey, Express",
+        "Antonyms": "Misunderstand, Misinterpret",
+        "Example1": "Effective communication is key in teamwork.",
+        "Example2": "She communicates her ideas clearly."
+    },
+    {
+        "Date": "29 August",
+        "Grade": "kg , first , second",
+        "Word": "Jar",
+        "WordType": "Noun",
+        "Synonyms": "Container, pot",
+        "Antonyms": "Lid",
+        "Example1": "The jar was filled with cookies.",
+        "Example2": "She opened the jar carefully."
+    },
+    {
+        "Date": "29 August",
+        "Grade": "third , fourth , fifth",
+        "Word": "Collapse",
+        "WordType": "Verb",
+        "Synonyms": "Fall, Crumble",
+        "Antonyms": "Stand, Hold up",
+        "Example1": "The old bridge collapsed under the weight.",
+        "Example2": "She collapsed from exhaustion after the race."
+    },
+    {
+        "Date": "29 August",
+        "Grade": "sixth , seventh , eighth , ninth",
+        "Word": "Maverick",
+        "WordType": "Noun",
+        "Synonyms": "Nonconformist, Rebel",
+        "Antonyms": "Conformist, Traditionalist",
+        "Example1": "He was known as a maverick in the corporate world.",
+        "Example2": "She admired his courage to be a maverick in his field."
+    },
+    {
+        "Date": "29 August",
+        "Grade": "tenth , eleventh , twelfth , adult",
+        "Word": "Delegate",
+        "WordType": "Verb",
+        "Synonyms": "Assign, Entrust",
+        "Antonyms": "Retain, Keep",
+        "Example1": "He delegated tasks to his team members.",
+        "Example2": "She delegated authority to her deputies."
+    },
+    {
+        "Date": "30 August",
+        "Grade": "kg , first , second",
+        "Word": "Juggle",
+        "WordType": "Verb",
+        "Synonyms": "Balance, toss",
+        "Antonyms": "Still",
+        "Example1": "He learned to juggle three balls.",
+        "Example2": "Can you juggle those apples?"
+    },
+    {
+        "Date": "30 August",
+        "Grade": "third , fourth , fifth",
+        "Word": "Collect",
+        "WordType": "Verb",
+        "Synonyms": "Gather, Accumulate",
+        "Antonyms": "Scatter, Disperse",
+        "Example1": "Please collect all the papers from the floor.",
+        "Example2": "He collects stamps as a hobby."
+    },
+    {
+        "Date": "30 August",
+        "Grade": "sixth , seventh , eighth , ninth",
+        "Word": "Mitigate",
+        "WordType": "Verb",
+        "Synonyms": "Alleviate, Reduce",
+        "Antonyms": "Aggravate, Intensify",
+        "Example1": "Planting trees can help mitigate the effects of climate change.",
+        "Example2": "The doctor prescribed medication to mitigate the pain."
+    },
+    {
+        "Date": "30 August",
+        "Grade": "tenth , eleventh , twelfth , adult",
+        "Word": "Develop",
+        "WordType": "Verb",
+        "Synonyms": "Evolve, Progress",
+        "Antonyms": "Stagnate, Regress",
+        "Example1": "They developed a new software application.",
+        "Example2": "He developed his leadership skills over time."
+    },
+    {
+        "Date": "31 August",
+        "Grade": "kg , first , second",
+        "Word": "Join",
+        "WordType": "Verb",
+        "Synonyms": "Connect, unite",
+        "Antonyms": "Separate",
+        "Example1": "Please join the pieces together.",
+        "Example2": "Let's join hands and sing."
+    },
+    {
+        "Date": "31 August",
+        "Grade": "third , fourth , fifth",
+        "Word": "Combine",
+        "WordType": "Verb",
+        "Synonyms": "Merge, Unite",
+        "Antonyms": "Divide, Separate",
+        "Example1": "Let's combine our efforts to finish the project.",
+        "Example2": "He combined flour and water to make dough."
+    },
+    {
+        "Date": "31 August",
+        "Grade": "sixth , seventh , eighth , ninth",
+        "Word": "Nefarious",
+        "WordType": "Adjective",
+        "Synonyms": "Wicked, Evil",
+        "Antonyms": "Virtuous, Good",
+        "Example1": "The nefarious activities of the criminal organization were exposed.",
+        "Example2": "She uncovered a nefarious plot to overthrow the government."
+    },
+    {
+        "Date": "31 August",
+        "Grade": "tenth , eleventh , twelfth , adult",
+        "Word": "Evaluate",
+        "WordType": "Verb",
+        "Synonyms": "Assess, Judge",
+        "Antonyms": "Accept, Approve",
+        "Example1": "They evaluated the performance of employees.",
+        "Example2": "She evaluated the market before investing."
+    },
+    {
+        "Date": "1 September",
+        "Grade": "kg , first , second",
+        "Word": "Juice",
+        "WordType": "Noun",
+        "Synonyms": "Liquid, nectar",
+        "Antonyms": "Solid",
+        "Example1": "I poured some juice into a glass.",
+        "Example2": "Orange juice is tasty."
+    },
+    {
+        "Date": "1 September",
+        "Grade": "third , fourth , fifth",
+        "Word": "Comfort",
+        "WordType": "Noun",
+        "Synonyms": "Ease, Solace",
+        "Antonyms": "Discomfort, Distress",
+        "Example1": "His words brought her comfort in troubled times.",
+        "Example2": "The cozy blanket provided comfort on cold nights."
+    },
+    {
+        "Date": "1 September",
+        "Grade": "sixth , seventh , eighth , ninth",
+        "Word": "Obfuscate",
+        "WordType": "Verb",
+        "Synonyms": "Confuse, Muddle",
+        "Antonyms": "Clarify, Illuminate",
+        "Example1": "The politician tried to obfuscate the issue with vague statements.",
+        "Example2": "Her attempts to obfuscate the truth were unsuccessful."
+    },
+    {
+        "Date": "1 September",
+        "Grade": "tenth , eleventh , twelfth , adult",
+        "Word": "Execute",
+        "WordType": "Verb",
+        "Synonyms": "Implement, Accomplish",
+        "Antonyms": "Abandon, Halt",
+        "Example1": "They executed the project according to plan.",
+        "Example2": "He executed the task with precision."
+    },
+    {
+        "Date": "2 September",
+        "Grade": "kg , first , second",
+        "Word": "Jolly",
+        "WordType": "Adjective",
+        "Synonyms": "Merry, cheerful",
+        "Antonyms": "Sad",
+        "Example1": "We had a jolly good time at the party.",
+        "Example2": "She always has a jolly smile."
+    },
+    {
+        "Date": "2 September",
+        "Grade": "third , fourth , fifth",
+        "Word": "Command",
+        "WordType": "Verb",
+        "Synonyms": "Order, Direct",
+        "Antonyms": "Obey, Follow",
+        "Example1": "The general commanded his troops to advance.",
+        "Example2": "She commanded attention with her powerful speech."
+    },
+    {
+        "Date": "2 September",
+        "Grade": "sixth , seventh , eighth , ninth",
+        "Word": "Onerous",
+        "WordType": "Adjective",
+        "Synonyms": "Burdensome, Taxing",
+        "Antonyms": "Easy, Effortless",
+        "Example1": "The onerous task of writing a thesis loomed over him.",
+        "Example2": "She found the onerous responsibility overwhelming."
+    },
+    {
+        "Date": "2 September",
+        "Grade": "tenth , eleventh , twelfth , adult",
+        "Word": "Facilitate",
+        "WordType": "Verb",
+        "Synonyms": "Enable, Assist",
+        "Antonyms": "Hinder, Impede",
+        "Example1": "She facilitated the meeting smoothly.",
+        "Example2": "He facilitated the learning process for students."
+    },
+    {
+        "Date": "3 September",
+        "Grade": "kg , first , second",
+        "Word": "Jet",
+        "WordType": "Noun",
+        "Synonyms": "Aircraft, plane",
+        "Antonyms": "Still",
+        "Example1": "The jet flew across the sky.",
+        "Example2": "We watched the jet take off."
+    },
+    {
+        "Date": "3 September",
+        "Grade": "third , fourth , fifth",
+        "Word": "Commence",
+        "WordType": "Verb",
+        "Synonyms": "Begin, Start",
+        "Antonyms": "End, Finish",
+        "Example1": "The ceremony will commence at noon.",
+        "Example2": "Let's commence our journey early in the morning."
+    },
+    {
+        "Date": "3 September",
+        "Grade": "sixth , seventh , eighth , ninth",
+        "Word": "Paradox",
+        "WordType": "Noun",
+        "Synonyms": "Contradiction, Enigma",
+        "Antonyms": "Truth, Certainty",
+        "Example1": "The concept of time travel creates a paradox.",
+        "Example2": "His life was a paradox of success and loneliness."
+    },
+    {
+        "Date": "3 September",
+        "Grade": "tenth , eleventh , twelfth , adult",
+        "Word": "Innovate",
+        "WordType": "Verb",
+        "Synonyms": "Create, Invent",
+        "Antonyms": "Imitate, Conform",
+        "Example1": "They innovated new solutions to problems.",
+        "Example2": "He innovated a groundbreaking product."
+    },
+    {
+        "Date": "4 September",
+        "Grade": "kg , first , second",
+        "Word": "Kangaroo",
+        "WordType": "Noun",
+        "Synonyms": "None",
+        "Antonyms": "None",
+        "Example1": "The kangaroo hops.",
+        "Example2": "Look at the kangaroo."
+    },
+    {
+        "Date": "4 September",
+        "Grade": "third , fourth , fifth",
+        "Word": "Communicate",
+        "WordType": "Verb",
+        "Synonyms": "Convey, Transmit",
+        "Antonyms": "Conceal, Suppress",
+        "Example1": "It's important to communicate your feelings.",
+        "Example2": "They communicate with each other through letters."
+    },
+    {
+        "Date": "4 September",
+        "Grade": "sixth , seventh , eighth , ninth",
+        "Word": "Perfidious",
+        "WordType": "Adjective",
+        "Synonyms": "Treacherous, Betraying",
+        "Antonyms": "Faithful, Loyal",
+        "Example1": "His perfidious actions shattered her trust in him.",
+        "Example2": "She never expected such perfidious behavior from her friend."
+    },
+    {
+        "Date": "4 September",
+        "Grade": "tenth , eleventh , twelfth , adult",
+        "Word": "Lead",
+        "WordType": "Verb",
+        "Synonyms": "Guide, Direct",
+        "Antonyms": "Follow, Lag",
+        "Example1": "She leads the team with vision and clarity.",
+        "Example2": "He led the company through challenging times."
+    },
+    {
+        "Date": "5 September",
+        "Grade": "kg , first , second",
+        "Word": "Key",
+        "WordType": "Noun",
+        "Synonyms": "None",
+        "Antonyms": "None",
+        "Example1": "Use the key to open the door.",
+        "Example2": "The key unlocks the treasure chest."
+    },
+    {
+        "Date": "5 September",
+        "Grade": "third , fourth , fifth",
+        "Word": "Compel",
+        "WordType": "Verb",
+        "Synonyms": "Force, Urge",
+        "Antonyms": "Discourage, Deter",
+        "Example1": "The evidence will compel him to confess.",
+        "Example2": "She felt compelled to help those in need."
+    },
+    {
+        "Date": "5 September",
+        "Grade": "sixth , seventh , eighth , ninth",
+        "Word": "Perfunctory",
+        "WordType": "Adjective",
+        "Synonyms": "Automatic, Mechanical",
+        "Antonyms": "Thorough, Diligent",
+        "Example1": "His perfunctory apology didn't seem sincere.",
+        "Example2": "She gave a perfunctory wave before leaving."
+    },
+    {
+        "Date": "5 September",
+        "Grade": "tenth , eleventh , twelfth , adult",
+        "Word": "Manage",
+        "WordType": "Verb",
+        "Synonyms": "Administer, Control",
+        "Antonyms": "Neglect, Mismanage",
+        "Example1": "They managed the project effectively.",
+        "Example2": "She managed her time efficiently."
+    },
+    {
+        "Date": "6 September",
+        "Grade": "kg , first , second",
+        "Word": "Kind",
+        "WordType": "Adjective",
+        "Synonyms": "Nice, Friendly",
+        "Antonyms": "Mean, Unkind",
+        "Example1": "Be kind to others.",
+        "Example2": "It's kind to share your toys."
+    },
+    {
+        "Date": "6 September",
+        "Grade": "third , fourth , fifth",
+        "Word": "Compose",
+        "WordType": "Verb",
+        "Synonyms": "Create, Form",
+        "Antonyms": "Destroy, Ruin",
+        "Example1": "She composed a beautiful piece of music.",
+        "Example2": "He will compose a poem for the school contest."
+    },
+    {
+        "Date": "6 September",
+        "Grade": "sixth , seventh , eighth , ninth",
+        "Word": "Perspicacious",
+        "WordType": "Adjective",
+        "Synonyms": "Insightful, Discerning",
+        "Antonyms": "Oblivious, Unperceptive",
+        "Example1": "His perspicacious observations often surprised others.",
+        "Example2": "She showed a perspicacious understanding of human behavior."
+    },
+    {
+        "Date": "6 September",
+        "Grade": "tenth , eleventh , twelfth , adult",
+        "Word": "Motivate",
+        "WordType": "Verb",
+        "Synonyms": "Inspire, Encourage",
+        "Antonyms": "Discourage, Demotivate",
+        "Example1": "He motivates his team with pep talks.",
+        "Example2": "She motivates herself by setting goals."
+    },
+    {
+        "Date": "7 September",
+        "Grade": "kg , first , second",
+        "Word": "King",
+        "WordType": "Noun",
+        "Synonyms": "Ruler, Monarch",
+        "Antonyms": "Subject, Commoner",
+        "Example1": "The king wore a crown.",
+        "Example2": "The king ruled over the kingdom."
+    },
+    {
+        "Date": "7 September",
+        "Grade": "third , fourth , fifth",
+        "Word": "Comprehend",
+        "WordType": "Verb",
+        "Synonyms": "Understand, Grasp",
+        "Antonyms": "Misunderstand, Confuse",
+        "Example1": "It's important to comprehend the instructions before starting.",
+        "Example2": "She struggled to comprehend the complex equations."
+    },
+    {
+        "Date": "7 September",
+        "Grade": "sixth , seventh , eighth , ninth",
+        "Word": "Petulant",
+        "WordType": "Adjective",
+        "Synonyms": "Irritable, Cranky",
+        "Antonyms": "Calm, Patient",
+        "Example1": "His petulant behavior annoyed everyone around him.",
+        "Example2": "She was embarrassed by her petulant outburst."
+    },
+    {
+        "Date": "7 September",
+        "Grade": "tenth , eleventh , twelfth , adult",
+        "Word": "Negotiate",
+        "WordType": "Verb",
+        "Synonyms": "Bargain, Mediate",
+        "Antonyms": "Accept, Agree",
+        "Example1": "They negotiated the terms of the contract.",
+        "Example2": "She negotiated a raise with her employer."
+    },
+    {
+        "Date": "8 September",
+        "Grade": "kg , first , second",
+        "Word": "Kiss",
+        "WordType": "Verb",
+        "Synonyms": "Hug, Embrace",
+        "Antonyms": "Ignore, Avoid",
+        "Example1": "The mother kissed her child goodnight.",
+        "Example2": "They kissed each other on the cheeks."
+    },
+    {
+        "Date": "8 September",
+        "Grade": "third , fourth , fifth",
+        "Word": "Conceal",
+        "WordType": "Verb",
+        "Synonyms": "Hide, Cover",
+        "Antonyms": "Reveal, Expose",
+        "Example1": "He tried to conceal his disappointment.",
+        "Example2": "She concealed the gift behind her back."
+    },
+    {
+        "Date": "8 September",
+        "Grade": "sixth , seventh , eighth , ninth",
+        "Word": "Pinnacle",
+        "WordType": "Noun",
+        "Synonyms": "Peak, Summit",
+        "Antonyms": "Bottom, Base",
+        "Example1": "Winning the championship was the pinnacle of his career.",
+        "Example2": "The company's success reached its pinnacle last year."
+    },
+    {
+        "Date": "8 September",
+        "Grade": "tenth , eleventh , twelfth , adult",
+        "Word": "Organize",
+        "WordType": "Verb",
+        "Synonyms": "Arrange, Systematize",
+        "Antonyms": "Disorganize, Scatter",
+        "Example1": "They organized the files for easy access.",
+        "Example2": "He organized the event meticulously."
+    },
+    {
+        "Date": "9 September",
+        "Grade": "kg , first , second",
+        "Word": "Kite",
+        "WordType": "Noun",
+        "Synonyms": "Airplane, Toy",
+        "Antonyms": "None",
+        "Example1": "They flew a kite at the park.",
+        "Example2": "The kite soared high in the sky."
+    },
+    {
+        "Date": "9 September",
+        "Grade": "third , fourth , fifth",
+        "Word": "Concern",
+        "WordType": "Noun",
+        "Synonyms": "Worry, Care",
+        "Antonyms": "Indifference, Apathy",
+        "Example1": "Her concern for her friends is evident.",
+        "Example2": "The safety of the children is our main concern."
+    },
+    {
+        "Date": "9 September",
+        "Grade": "sixth , seventh , eighth , ninth",
+        "Word": "Pithy",
+        "WordType": "Adjective",
+        "Synonyms": "Concise, Brief",
+        "Antonyms": "Long-winded, Wordy",
+        "Example1": "His pithy remarks were always to the point.",
+        "Example2": "She appreciated the pithy advice from her mentor."
+    },
+    {
+        "Date": "9 September",
+        "Grade": "tenth , eleventh , twelfth , adult",
+        "Word": "Prioritize",
+        "WordType": "Verb",
+        "Synonyms": "Rank, Arrange",
+        "Antonyms": "Postpone, Neglect",
+        "Example1": "She prioritized tasks based on importance.",
+        "Example2": "He prioritized spending time with family."
+    },
+    {
+        "Date": "10 September",
+        "Grade": "kg , first , second",
+        "Word": "Knock",
+        "WordType": "Verb",
+        "Synonyms": "Tap, Bang",
+        "Antonyms": "Quiet, Silence",
+        "Example1": "Knock on the door before entering.",
+        "Example2": "I heard a knock on the window."
+    },
+    {
+        "Date": "10 September",
+        "Grade": "third , fourth , fifth",
+        "Word": "Conclude",
+        "WordType": "Verb",
+        "Synonyms": "End, Finish",
+        "Antonyms": "Begin, Start",
+        "Example1": "Let's conclude the meeting with a summary.",
+        "Example2": "He concluded his speech with a call to action."
+    },
+    {
+        "Date": "10 September",
+        "Grade": "sixth , seventh , eighth , ninth",
+        "Word": "Placate",
+        "WordType": "Verb",
+        "Synonyms": "Pacify, Appease",
+        "Antonyms": "Agitate, Provoke",
+        "Example1": "The teacher tried to placate the upset student.",
+        "Example2": "He placated his hunger with a snack."
+    },
+    {
+        "Date": "10 September",
+        "Grade": "tenth , eleventh , twelfth , adult",
+        "Word": "Problem-solve",
+        "WordType": "Verb",
+        "Synonyms": "Resolve, Fix",
+        "Antonyms": "Ignore, Worsen",
+        "Example1": "They problem-solved the technical glitch.",
+        "Example2": "He problem-solved the issue efficiently."
+    },
+    {
+        "Date": "11 September",
+        "Grade": "kg , first , second",
+        "Word": "Know",
+        "WordType": "Verb",
+        "Synonyms": "Understand, Learn",
+        "Antonyms": "Ignore, Unaware",
+        "Example1": "I know how to tie my shoes.",
+        "Example2": "Do you know the answer to the question?"
+    },
+    {
+        "Date": "11 September",
+        "Grade": "third , fourth , fifth",
+        "Word": "Confident",
+        "WordType": "Adjective",
+        "Synonyms": "Assured, Self-assured",
+        "Antonyms": "Uncertain, Doubtful",
+        "Example1": "She felt confident about her presentation.",
+        "Example2": "He needs to be more confident in his abilities."
+    },
+    {
+        "Date": "11 September",
+        "Grade": "sixth , seventh , eighth , ninth",
+        "Word": "Quixotic",
+        "WordType": "Adjective",
+        "Synonyms": "Idealistic, Romantic",
+        "Antonyms": "Practical, Realistic",
+        "Example1": "His quixotic quest for world peace inspired many.",
+        "Example2": "She dismissed his quixotic notions as impractical."
+    },
+    {
+        "Date": "11 September",
+        "Grade": "tenth , eleventh , twelfth , adult",
+        "Word": "Research",
+        "WordType": "Verb",
+        "Synonyms": "Investigate, Study",
+        "Antonyms": "Neglect, Ignore",
+        "Example1": "They researched the market trends.",
+        "Example2": "She researched the topic thoroughly."
+    },
+    {
+        "Date": "12 September",
+        "Grade": "kg , first , second",
+        "Word": "Keep",
+        "WordType": "Verb",
+        "Synonyms": "Preserve, Maintain",
+        "Antonyms": "Lose, Release",
+        "Example1": "Keep your room clean.",
+        "Example2": "I'll keep this secret."
+    },
+    {
+        "Date": "12 September",
+        "Grade": "third , fourth , fifth",
+        "Word": "Confuse",
+        "WordType": "Verb",
+        "Synonyms": "Baffle, Puzzle",
+        "Antonyms": "Clarify, Enlighten",
+        "Example1": "The instructions confused the students.",
+        "Example2": "He confused the directions and got lost."
+    },
+    {
+        "Date": "12 September",
+        "Grade": "sixth , seventh , eighth , ninth",
+        "Word": "Rancor",
+        "WordType": "Noun",
+        "Synonyms": "Resentment, Animosity",
+        "Antonyms": "Love, Affection",
+        "Example1": "Despite their past conflicts, there was no rancor between them.",
+        "Example2": "He couldn't let go of his rancor towards his ex-friend."
+    },
+    {
+        "Date": "12 September",
+        "Grade": "tenth , eleventh , twelfth , adult",
+        "Word": "Strategize",
+        "WordType": "Verb",
+        "Synonyms": "Plan, Scheme",
+        "Antonyms": "Improvise, Spontaneous",
+        "Example1": "They strategized the marketing campaign.",
+        "Example2": "He strategized his approach to the project."
+    },
+    {
+        "Date": "13 September",
+        "Grade": "kg , first , second",
+        "Word": "Kindergarten",
+        "WordType": "Noun",
+        "Synonyms": "Preschool",
+        "Antonyms": "None",
+        "Example1": "She goes to kindergarten.",
+        "Example2": "He'll start kindergarten next year."
+    },
+    {
+        "Date": "13 September",
+        "Grade": "third , fourth , fifth",
+        "Word": "Congratulate",
+        "WordType": "Verb",
+        "Synonyms": "Praise, Applaud",
+        "Antonyms": "Criticize, Condemn",
+        "Example1": "We should congratulate her on her achievement.",
+        "Example2": "They congratulated each other on a job well done."
+    },
+    {
+        "Date": "13 September",
+        "Grade": "sixth , seventh , eighth , ninth",
+        "Word": "Recalcitrant",
+        "WordType": "Adjective",
+        "Synonyms": "Stubborn, Obstinate",
+        "Antonyms": "Compliant, Obedient",
+        "Example1": "The recalcitrant student refused to do his homework.",
+        "Example2": "She was frustrated by her recalcitrant computer."
+    },
+    {
+        "Date": "13 September",
+        "Grade": "tenth , eleventh , twelfth , adult",
+        "Word": "Synthesize",
+        "WordType": "Verb",
+        "Synonyms": "Combine, Integrate",
+        "Antonyms": "Separate, Disintegrate",
+        "Example1": "They synthesized various ideas into one.",
+        "Example2": "She synthesized the data for analysis."
+    },
+    {
+        "Date": "14 September",
+        "Grade": "kg , first , second",
+        "Word": "Lion",
+        "WordType": "Noun",
+        "Synonyms": "Big cat",
+        "Antonyms": "-",
+        "Example1": "The lion roared loudly.",
+        "Example2": "The lion sleeps."
+    },
+    {
+        "Date": "14 September",
+        "Grade": "third , fourth , fifth",
+        "Word": "Consider",
+        "WordType": "Verb",
+        "Synonyms": "Ponder, Contemplate",
+        "Antonyms": "Disregard, Ignore",
+        "Example1": "You should consider all the options before making a decision.",
+        "Example2": "She will consider your offer carefully."
+    },
+    {
+        "Date": "14 September",
+        "Grade": "sixth , seventh , eighth , ninth",
+        "Word": "Redundant",
+        "WordType": "Adjective",
+        "Synonyms": "Unnecessary, Excessive",
+        "Antonyms": "Necessary, Essential",
+        "Example1": "His speech was full of redundant information.",
+        "Example2": "The redundant position was eliminated from the company."
+    },
+    {
+        "Date": "14 September",
+        "Grade": "tenth , eleventh , twelfth , adult",
+        "Word": "Systemize",
+        "WordType": "Verb",
+        "Synonyms": "Standardize, Organize",
+        "Antonyms": "Disorganize, Scatter",
+        "Example1": "They systemized the workflow for efficiency.",
+        "Example2": "He systemized the inventory management."
+    },
+    {
+        "Date": "15 September",
+        "Grade": "kg , first , second",
+        "Word": "Leaf",
+        "WordType": "Noun",
+        "Synonyms": "Foliage",
+        "Antonyms": "-",
+        "Example1": "The leaf fell gently.",
+        "Example2": "The tree has green leaves."
+    },
+    {
+        "Date": "15 September",
+        "Grade": "third , fourth , fifth",
+        "Word": "Constant",
+        "WordType": "Adjective",
+        "Synonyms": "Continuous, Unchanging",
+        "Antonyms": "Variable, Fluctuating",
+        "Example1": "His constant chatter annoyed everyone.",
+        "Example2": "The constant rain made the ground muddy."
+    },
+    {
+        "Date": "15 September",
+        "Grade": "sixth , seventh , eighth , ninth",
+        "Word": "Resilient",
+        "WordType": "Adjective",
+        "Synonyms": "Flexible, Tough",
+        "Antonyms": "Fragile, Vulnerable",
+        "Example1": "Despite facing many setbacks, he remained resilient.",
+        "Example2": "The community showed its resilient spirit after the disaster."
+    },
+    {
+        "Date": "15 September",
+        "Grade": "tenth , eleventh , twelfth , adult",
+        "Word": "Time-manage",
+        "WordType": "Verb",
+        "Synonyms": "Schedule, Prioritize",
+        "Antonyms": "Procrastinate, Waste",
+        "Example1": "She effectively time-manages her tasks.",
+        "Example2": "He learned to time-manage for better productivity."
+    },
+    {
+        "Date": "16 September",
+        "Grade": "kg , first , second",
+        "Word": "Laugh",
+        "WordType": "Verb",
+        "Synonyms": "Chuckle, Giggle",
+        "Antonyms": "Cry, Frown",
+        "Example1": "The children laughed at the joke.",
+        "Example2": "She laughs when she's happy."
+    },
+    {
+        "Date": "16 September",
+        "Grade": "third , fourth , fifth",
+        "Word": "Mango",
+        "WordType": "Noun",
+        "Synonyms": "Fruit",
+        "Antonyms": "Vegetable",
+        "Example1": "She enjoyed eating ripe mangoes.",
+        "Example2": "The market had a sale on fresh mangoes."
+    },
+    {
+        "Date": "16 September",
+        "Grade": "sixth , seventh , eighth , ninth",
+        "Word": "Reticent",
+        "WordType": "Adjective",
+        "Synonyms": "Reserved, Introverted",
+        "Antonyms": "Outgoing, Talkative",
+        "Example1": "She was reticent about discussing her personal life.",
+        "Example2": "He remained reticent during the entire meeting."
+    },
+    {
+        "Date": "16 September",
+        "Grade": "tenth , eleventh , twelfth , adult",
+        "Word": "Adaptability",
+        "WordType": "Noun",
+        "Synonyms": "Flexibility, Versatility",
+        "Antonyms": "Rigidity, Inflexibility",
+        "Example1": "Her adaptability helped her thrive in new environments.",
+        "Example2": "His adaptability in problem-solving impressed the team."
+    },
+    {
+        "Date": "17 September",
+        "Grade": "kg , first , second",
+        "Word": "Love",
+        "WordType": "Verb",
+        "Synonyms": "Adore, Cherish",
+        "Antonyms": "Hate, Detest",
+        "Example1": "I love my family.",
+        "Example2": "The puppy loves to play."
+    },
+    {
+        "Date": "17 September",
+        "Grade": "third , fourth , fifth",
+        "Word": "Mountain",
+        "WordType": "Noun",
+        "Synonyms": "Peak, Summit",
+        "Antonyms": "Valley",
+        "Example1": "We climbed to the top of the mountain.",
+        "Example2": "The mountain range stretched for miles."
+    },
+    {
+        "Date": "17 September",
+        "Grade": "sixth , seventh , eighth , ninth",
+        "Word": "Sagacious",
+        "WordType": "Adjective",
+        "Synonyms": "Wise, Insightful",
+        "Antonyms": "Foolish, Ignorant",
+        "Example1": "His sagacious advice guided me through tough times.",
+        "Example2": "She showed a sagacious understanding of human nature."
+    },
+    {
+        "Date": "17 September",
+        "Grade": "tenth , eleventh , twelfth , adult",
+        "Word": "Ambition",
+        "WordType": "Noun",
+        "Synonyms": "Aspiration, Drive",
+        "Antonyms": "Complacency, Apathy",
+        "Example1": "Her ambition drove her to excel in her career.",
+        "Example2": "His ambition led him to pursue higher education."
+    },
+    {
+        "Date": "18 September",
+        "Grade": "kg , first , second",
+        "Word": "Lamp",
+        "WordType": "Noun",
+        "Synonyms": "Light",
+        "Antonyms": "Darkness",
+        "Example1": "The lamp illuminated the room.",
+        "Example2": "Turn on the lamp, please."
+    },
+    {
+        "Date": "18 September",
+        "Grade": "third , fourth , fifth",
+        "Word": "Morning",
+        "WordType": "Noun",
+        "Synonyms": "Dawn, Sunrise",
+        "Antonyms": "Evening",
+        "Example1": "We woke up early in the morning.",
+        "Example2": "The morning air was crisp and fresh."
+    },
+    {
+        "Date": "18 September",
+        "Grade": "sixth , seventh , eighth , ninth",
+        "Word": "Salient",
+        "WordType": "Adjective",
+        "Synonyms": "Prominent, Notable",
+        "Antonyms": "Insignificant, Obscure",
+        "Example1": "The salient features of the painting caught my attention.",
+        "Example2": "The report highlighted the salient points of the discussion."
+    },
+    {
+        "Date": "18 September",
+        "Grade": "tenth , eleventh , twelfth , adult",
+        "Word": "Autonomy",
+        "WordType": "Noun",
+        "Synonyms": "Independence, Self-reliance",
+        "Antonyms": "Dependence, Subordination",
+        "Example1": "The project gave him the autonomy to make decisions.",
+        "Example2": "She values autonomy in her work environment."
+    },
+    {
+        "Date": "19 September",
+        "Grade": "kg , first , second",
+        "Word": "Listen",
+        "WordType": "Verb",
+        "Synonyms": "Hear, Pay attention",
+        "Antonyms": "Ignore, Disregard",
+        "Example1": "Listen to the teacher carefully.",
+        "Example2": "She likes to listen to music."
+    },
+    {
+        "Date": "19 September",
+        "Grade": "third , fourth , fifth",
+        "Word": "Mail",
+        "WordType": "Noun/Verb",
+        "Synonyms": "Post, Correspondence",
+        "Antonyms": "Retrieve",
+        "Example1": "The postman delivered the mail.",
+        "Example2": "She wrote a letter and mailed it to her friend."
+    },
+    {
+        "Date": "19 September",
+        "Grade": "sixth , seventh , eighth , ninth",
+        "Word": "Serendipity",
+        "WordType": "Noun",
+        "Synonyms": "Luck, Fortune",
+        "Antonyms": "Misfortune, Disaster",
+        "Example1": "They met by serendipity and fell in love.",
+        "Example2": "The discovery of penicillin was a serendipitous accident."
+    },
+    {
+        "Date": "19 September",
+        "Grade": "tenth , eleventh , twelfth , adult",
+        "Word": "Collaboration",
+        "WordType": "Noun",
+        "Synonyms": "Partnership, Cooperation",
+        "Antonyms": "Solitude, Individualism",
+        "Example1": "Collaboration among team members led to success.",
+        "Example2": "The project's success was due to effective collaboration."
+    },
+    {
+        "Date": "20 September",
+        "Grade": "kg , first , second",
+        "Word": "Lunch",
+        "WordType": "Noun",
+        "Synonyms": "Midday meal",
+        "Antonyms": "Breakfast, Dinner",
+        "Example1": "Let's eat lunch together.",
+        "Example2": "I have a sandwich for lunch."
+    },
+    {
+        "Date": "20 September",
+        "Grade": "third , fourth , fifth",
+        "Word": "Nest",
+        "WordType": "Noun",
+        "Synonyms": "Den, Roost",
+        "Antonyms": "Expose, Remove",
+        "Example1": "The bird built a nest in the tree.",
+        "Example2": "The eggs are safe in the nest."
+    },
+    {
+        "Date": "20 September",
+        "Grade": "sixth , seventh , eighth , ninth",
+        "Word": "Soporific",
+        "WordType": "Adjective",
+        "Synonyms": "Sleep-inducing, Drowsy",
+        "Antonyms": "Stimulating, Invigorating",
+        "Example1": "The professor's lectures were soporific.",
+        "Example2": "She found the music to be soporific and relaxing."
+    },
+    {
+        "Date": "20 September",
+        "Grade": "tenth , eleventh , twelfth , adult",
+        "Word": "Commitment",
+        "WordType": "Noun",
+        "Synonyms": "Dedication, Loyalty",
+        "Antonyms": "Indifference, Neglect",
+        "Example1": "Her commitment to the project was unwavering.",
+        "Example2": "He showed commitment by working extra hours."
+    },
+    {
+        "Date": "21 September",
+        "Grade": "kg , first , second",
+        "Word": "Lemon",
+        "WordType": "Noun",
+        "Synonyms": "Citrus fruit",
+        "Antonyms": "-",
+        "Example1": "She squeezed a lemon for juice.",
+        "Example2": "Lemonade is made from lemons."
+    },
+    {
+        "Date": "21 September",
+        "Grade": "third , fourth , fifth",
+        "Word": "Nose",
+        "WordType": "Noun",
+        "Synonyms": "Snout, Nostril",
+        "Antonyms": "Mouth",
+        "Example1": "Use your nose to smell the flowers.",
+        "Example2": "The clown had a big red nose."
+    },
+    {
+        "Date": "21 September",
+        "Grade": "sixth , seventh , eighth , ninth",
+        "Word": "Superfluous",
+        "WordType": "Adjective",
+        "Synonyms": "Excessive, Redundant",
+        "Antonyms": "Necessary, Essential",
+        "Example1": "The extra details in the report were superfluous.",
+        "Example2": "She removed the superfluous decorations from the room."
+    },
+    {
+        "Date": "21 September",
+        "Grade": "tenth , eleventh , twelfth , adult",
+        "Word": "Creativity",
+        "WordType": "Noun",
+        "Synonyms": "Imagination, Originality",
+        "Antonyms": "Convention, Imitation",
+        "Example1": "Creativity is essential for problem-solving.",
+        "Example2": "His creativity brought fresh ideas to the table."
+    },
+    {
+        "Date": "22 September",
+        "Grade": "kg , first , second",
+        "Word": "Light",
+        "WordType": "Noun/Adj",
+        "Synonyms": "Illumination",
+        "Antonyms": "Darkness",
+        "Example1": "The light bulb is bright.",
+        "Example2": "The room is filled with light."
+    },
+    {
+        "Date": "22 September",
+        "Grade": "third , fourth , fifth",
+        "Word": "Net",
+        "WordType": "Noun",
+        "Synonyms": "Mesh, Web",
+        "Antonyms": "Release",
+        "Example1": "The fisherman caught fish in his net.",
+        "Example2": "The soccer goal has a net."
+    },
+    {
+        "Date": "22 September",
+        "Grade": "sixth , seventh , eighth , ninth",
+        "Word": "Acumen",
+        "WordType": "Noun",
+        "Synonyms": "Insight, Sharpness",
+        "Antonyms": "Ignorance, Dullness",
+        "Example1": "His business acumen made him a successful entrepreneur.",
+        "Example2": "Her acumen in solving puzzles impressed everyone."
+    },
+    {
+        "Date": "22 September",
+        "Grade": "tenth , eleventh , twelfth , adult",
+        "Word": "Decision-making",
+        "WordType": "Noun",
+        "Synonyms": "Judgment, Choice",
+        "Antonyms": "Indecision, Hesitation",
+        "Example1": "Effective decision-making is crucial in leadership.",
+        "Example2": "She improved her decision-making skills through practice."
+    },
+    {
+        "Date": "23 September",
+        "Grade": "kg , first , second",
+        "Word": "Lake",
+        "WordType": "Noun",
+        "Synonyms": "Pond, Reservoir",
+        "Antonyms": "-",
+        "Example1": "Ducks swim in the lake.",
+        "Example2": "The lake is calm today."
+    },
+    {
+        "Date": "23 September",
+        "Grade": "third , fourth , fifth",
+        "Word": "Night",
+        "WordType": "Noun",
+        "Synonyms": "Darkness, Evening",
+        "Antonyms": "Day, Morning",
+        "Example1": "The stars shine bright at night.",
+        "Example2": "We sleep during the night."
+    },
+    {
+        "Date": "23 September",
+        "Grade": "sixth , seventh , eighth , ninth",
+        "Word": "Adept",
+        "WordType": "Adjective",
+        "Synonyms": "Skilled, Proficient",
+        "Antonyms": "Inept, Clumsy",
+        "Example1": "He's adept at playing the guitar.",
+        "Example2": "She's adept in handling difficult situations."
+    },
+    {
+        "Date": "23 September",
+        "Grade": "tenth , eleventh , twelfth , adult",
+        "Word": "Efficiency",
+        "WordType": "Noun",
+        "Synonyms": "Productivity, Effectiveness",
+        "Antonyms": "Inefficiency, Waste",
+        "Example1": "Efficiency in processes saves time and resources.",
+        "Example2": "He streamlined operations to improve efficiency."
+    },
+    {
+        "Date": "24 September",
+        "Grade": "kg , first , second",
+        "Word": "Monkey",
+        "WordType": "Noun",
+        "Synonyms": "Ape, Primate",
+        "Antonyms": "Human",
+        "Example1": "The monkey swung from tree to tree.",
+        "Example2": "The zoo had many different kinds of monkeys."
+    },
+    {
+        "Date": "24 September",
+        "Grade": "third , fourth , fifth",
+        "Word": "Nine",
+        "WordType": "Number",
+        "Synonyms": "9, IX",
+        "Antonyms": "0, Ten",
+        "Example1": "I have nine fingers on my hands.",
+        "Example2": "There are nine planets in the solar system."
+    },
+    {
+        "Date": "24 September",
+        "Grade": "sixth , seventh , eighth , ninth",
+        "Word": "Adroit",
+        "WordType": "Adjective",
+        "Synonyms": "Dexterous, Skillful",
+        "Antonyms": "Clumsy, Inept",
+        "Example1": "The adroit chef can prepare any dish effortlessly.",
+        "Example2": "She's adroit at multitasking."
+    },
+    {
+        "Date": "24 September",
+        "Grade": "tenth , eleventh , twelfth , adult",
+        "Word": "Empowerment",
+        "WordType": "Noun",
+        "Synonyms": "Authority, Enablement",
+        "Antonyms": "Disempowerment, Restraint",
+        "Example1": "Empowerment of employees fosters innovation.",
+        "Example2": "She believes in the empowerment of women in the workplace."
+    },
+    {
+        "Date": "25 September",
+        "Grade": "kg , first , second",
+        "Word": "Moon",
+        "WordType": "Noun",
+        "Synonyms": "Lunar",
+        "Antonyms": "Sun",
+        "Example1": "The moon shines in the night sky.",
+        "Example2": "We saw a full moon during the camping trip."
+    },
+    {
+        "Date": "25 September",
+        "Grade": "third , fourth , fifth",
+        "Word": "Name",
+        "WordType": "Noun",
+        "Synonyms": "Title, Label",
+        "Antonyms": "Anonymous",
+        "Example1": "What is your name?",
+        "Example2": "Write your name on the paper."
+    },
+    {
+        "Date": "25 September",
+        "Grade": "sixth , seventh , eighth , ninth",
+        "Word": "Alleviate",
+        "WordType": "Verb",
+        "Synonyms": "Relieve, Ease",
+        "Antonyms": "Aggravate, Worsen",
+        "Example1": "Taking painkillers can alleviate your headache.",
+        "Example2": "Donating to charity can alleviate poverty."
+    },
+    {
+        "Date": "25 September",
+        "Grade": "tenth , eleventh , twelfth , adult",
+        "Word": "Flexibility",
+        "WordType": "Noun",
+        "Synonyms": "Adaptability, Versatility",
+        "Antonyms": "Rigidity, Inflexibility",
+        "Example1": "Flexibility allows for quick adjustments.",
+        "Example2": "He showed flexibility in his approach to challenges."
+    },
+    {
+        "Date": "26 September",
+        "Grade": "kg , first , second",
+        "Word": "Magic",
+        "WordType": "Noun/Adj",
+        "Synonyms": "Sorcery, Enchantment",
+        "Antonyms": "Reality",
+        "Example1": "The magician performed a magic trick.",
+        "Example2": "The fairy tale was full of magic spells."
+    },
+    {
+        "Date": "26 September",
+        "Grade": "third , fourth , fifth",
+        "Word": "Nail",
+        "WordType": "Noun",
+        "Synonyms": "Tack, Spike",
+        "Antonyms": "Release",
+        "Example1": "Hammer the nail into the wall.",
+        "Example2": "She painted her nails pink."
+    },
+    {
+        "Date": "26 September",
+        "Grade": "sixth , seventh , eighth , ninth",
+        "Word": "Persistence",
+        "WordType": "Noun",
+        "Synonyms": "Perseverance, Tenacity",
+        "Antonyms": "Surrender, Defeat",
+        "Example1": "Persistence is key to overcoming challenges.",
+        "Example2": "He achieved success through sheer persistence."
+    },
+    {
+        "Date": "26 September",
+        "Grade": "tenth , eleventh , twelfth , adult",
+        "Word": "Initiative",
+        "WordType": "Noun",
+        "Synonyms": "Drive, Enterprise",
+        "Antonyms": "Passivity, Indolence",
+        "Example1": "Taking initiative is valued in the workplace.",
+        "Example2": "She demonstrated initiative by proposing new ideas."
+    },
+    {
+        "Date": "27 September",
+        "Grade": "kg , first , second",
+        "Word": "Map",
+        "WordType": "Noun",
+        "Synonyms": "Chart, Atlas",
+        "Antonyms": "Territory",
+        "Example1": "We used a map to find our way home.",
+        "Example2": "The treasure map led us to a hidden cave."
+    },
+    {
+        "Date": "27 September",
+        "Grade": "third , fourth , fifth",
+        "Word": "Nut",
+        "WordType": "Noun",
+        "Synonyms": "Seed, Kernel",
+        "Antonyms": "Shell",
+        "Example1": "Crack the nut to get the seed.",
+        "Example2": "Squirrels collect nuts for winter."
+    },
+    {
+        "Date": "27 September",
+        "Grade": "sixth , seventh , eighth , ninth",
+        "Word": "Professionalism",
+        "WordType": "Noun",
+        "Synonyms": "Integrity, Competence",
+        "Antonyms": "Unprofessionalism, Sloppiness",
+        "Example1": "Professionalism is expected in the workplace.",
+        "Example2": "She conducts herself with utmost professionalism."
+    },
+    {
+        "Date": "27 September",
+        "Grade": "tenth , eleventh , twelfth , adult",
+        "Word": "Leadership",
+        "WordType": "Noun",
+        "Synonyms": "Guidance, Direction",
+        "Antonyms": "Subordination, Followership",
+        "Example1": "Leadership skills are essential for managerial roles.",
+        "Example2": "He showed exceptional leadership during the crisis."
+    },
+    {
+        "Date": "28 September",
+        "Grade": "kg , first , second",
+        "Word": "Mouse",
+        "WordType": "Noun",
+        "Synonyms": "Rodent, Rat",
+        "Antonyms": "Cat",
+        "Example1": "The mouse scurried across the floor.",
+        "Example2": "Be careful, there's a mouse in the kitchen!"
+    },
+    {
+        "Date": "28 September",
+        "Grade": "third , fourth , fifth",
+        "Word": "Noon",
+        "WordType": "Noun",
+        "Synonyms": "Midday, Lunchtime",
+        "Antonyms": "Midnight",
+        "Example1": "The sun is highest in the sky at noon.",
+        "Example2": "We eat lunch at noon."
+    },
+    {
+        "Date": "28 September",
+        "Grade": "sixth , seventh , eighth , ninth",
+        "Word": "Resilience",
+        "WordType": "Noun",
+        "Synonyms": "Endurance, Toughness",
+        "Antonyms": "Fragility, Vulnerability",
+        "Example1": "Resilience helps in bouncing back from setbacks.",
+        "Example2": "He showed remarkable resilience in difficult times."
+    },
+    {
+        "Date": "28 September",
+        "Grade": "tenth , eleventh , twelfth , adult",
+        "Word": "Organization",
+        "WordType": "Noun",
+        "Synonyms": "Arrangement, Management",
+        "Antonyms": "Disarray, Chaos",
+        "Example1": "Organization skills are vital for efficiency.",
+        "Example2": "She demonstrated excellent organization in her work."
+    }
+]
